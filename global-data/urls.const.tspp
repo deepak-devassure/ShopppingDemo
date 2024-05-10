@@ -1,0 +1,41 @@
+[
+    {
+        "environments": [
+            "DevBox"
+        ],
+        "isDefault": false,
+        "constants": [
+            {
+                "name": "SITE_URL",
+                "type": "url",
+                "value": "http://localhost:3000"
+            }
+        ]
+    },
+    {
+        "environments": [
+            "UAT"
+        ],
+        "constants": [
+            {
+                "name": "SITE_URL",
+                "type": "url",
+                "value": "https://app.devassure.io"
+            }
+        ],
+        "isDefault": false
+    },
+    {
+        "environments": [
+            "Production"
+        ],
+        "isDefault": false,
+        "constants": [
+            {
+                "name": "SITE_URL",
+                "type": "url",
+                "value": "https://app.devassure.io"
+            }
+        ]
+    }
+]

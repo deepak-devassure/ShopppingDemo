@@ -1,0 +1,16 @@
+>>testDataType: DATABASE_QUERY
+>>summary: Verify if user can cancel the invite operation for team members
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Navigate to 'Users' tab in the dashboard
+Click on 'Add member' button
+Enter the email address in the 'Invite users' modal
+Click on 'Admin' checkbox if admin rights are to be given
+Click on 'Cancel' button --> Verify that no new team member is added and the 'Invite users' modal is closed
+^^
+
+--Input value-- ::testData.username:: --in-- {{web > Devassure > LogIn}} 
+

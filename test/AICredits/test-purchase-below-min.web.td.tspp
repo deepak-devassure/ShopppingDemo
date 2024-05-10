@@ -1,0 +1,11 @@
+{
+    "savedConfigFile": "testcsv.csv.tspp",
+    "isLocalStore": false,
+    "excludedColumns": [],
+    "filter": {
+        "limitFilter": {
+            "limitType": "FIRST",
+            "count": 3
+        }
+    }
+}

@@ -1,0 +1,29 @@
+
+
+^^FirstAPI(arg3:text, arg4:text, arg2:text)
+{
+    "method": "GET",
+    "baseUrl": "::urls.SITE_URL",
+    "path": "users",
+    "request": {
+        "queryParams": [
+            {
+                "name": "name",
+                "value": "",
+                "type": "text"
+            }
+        ],
+        "body": {
+            "type": "json"
+        }
+    }
+}
+^^
+
+^^API2()
+{
+    "method": "GET",
+    "baseUrl": "",
+    "path": ""
+}
+^^

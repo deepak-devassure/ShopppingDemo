@@ -1,0 +1,58 @@
+[
+    {
+        "environments": [
+            "default"
+        ],
+        "isDefault": true,
+        "constants": [
+            {
+                "name": "Test",
+                "type": "text",
+                "value": "one"
+            },
+            {
+                "name": "Test2",
+                "type": "number",
+                "value": "1"
+            },
+            {
+                "name": "username",
+                "type": "text",
+                "value": "santhosh@"
+            },
+            {
+                "name": "password",
+                "type": "text",
+                "value": "pass"
+            }
+        ]
+    },
+    {
+        "environments": [
+            "UAT"
+        ],
+        "constants": [
+            {
+                "name": "Test",
+                "type": "text",
+                "value": "two"
+            },
+            {
+                "name": "username",
+                "type": "text",
+                "value": "user123"
+            },
+            {
+                "name": "demo",
+                "type": "text",
+                "value": "demo"
+            },
+            {
+                "name": "test",
+                "type": "text",
+                "value": ""
+            }
+        ],
+        "isDefault": false
+    }
+]

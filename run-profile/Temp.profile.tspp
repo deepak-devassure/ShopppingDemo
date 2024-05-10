@@ -1,0 +1,29 @@
+{
+    "runLocation": "LOCAL",
+    "desktopOsProfiles": [
+        {
+            "os": "LOCAL",
+            "browserProfiles": [
+                {
+                    "browser": "CHROME",
+                    "viewProfiles": [
+                        {
+                            "resolution": {
+                                "x": 1920,
+                                "y": 1080
+                            }
+                        }
+                    ]
+                },
+                {
+                    "browser": "PLAYWRIGHT_EMULATOR",
+                    "viewProfiles": [
+                        {
+                            "device": "Pixel 5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

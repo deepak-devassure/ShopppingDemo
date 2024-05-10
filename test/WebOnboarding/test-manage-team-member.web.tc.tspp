@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that a user can manage team members
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Navigate to the 'Users' page
+Hover over an existing team member
+Click on the 'Edit role' icon
+Select a new role from the dropdown
+Click on the 'Save' button --> Verify that the team member's role is updated and a confirmation message is displayed
+^^
+
+

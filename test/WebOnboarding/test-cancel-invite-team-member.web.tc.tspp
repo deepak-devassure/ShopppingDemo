@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that the user can cancel the process of inviting a team member
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Navigate to the 'Users' section
+Click on the 'Add member' button
+Enter a valid email in the 'email' field
+Select a role from the dropdown
+Click on the 'Invite' button
+Click on the 'Cancel' button --> Verify that the new team member is not listed in the 'Users' section
+^^
+
+

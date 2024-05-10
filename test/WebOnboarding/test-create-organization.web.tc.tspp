@@ -1,0 +1,19 @@
+>>testDataType: undefined
+>>summary: Verify that a user can create an organization successfully
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Navigate to the 'Create your first project' page
+Enter a valid 'name' in the organization name field
+Select 'Web' in the platform options
+Click on 'Save' button --> Verify that a new organization is created and a confirmation message is displayed
+^^
+
+--Open URL-- [[https://www.google.com/]] 
+--Click on-- {{web > Google > Google_2}} 
+--Click on-- {{web > Google > Search_3}} 
+--Input value-- [[test]] --in-- {{web > Google > Search_3}} 
+--Press keyboard keys-- [[Enter]] --on-- {{web > Google > Search_3}} 
+

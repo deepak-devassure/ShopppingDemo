@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Check Admin can see all users listed on Users page
+>>tags: 
+>>feature: UserPage
+
+
+^^detailed_steps
+Log in with an Admin account
+Navigate to the Users page --> Verify that all users are listed on the Users page
+^^
+
+--Open URL-- [[https://mdbootstrap.com/docs/standard/forms/checkbox/]] 
+::isChecked_2 = --Is element checked-- {{web > Devassure > Checkedbox}} 
+--Verify boolean-- ::isChecked_2:: --is equal to-- [[true]] 
+::isChecked_3 = --Is element checked-- {{web > Devassure > UncheckedBox}} 
+--Verify boolean-- ::isChecked_3:: --is equal to-- [[false]] 
+

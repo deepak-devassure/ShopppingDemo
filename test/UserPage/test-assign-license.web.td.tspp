@@ -1,0 +1,8 @@
+{
+    "savedConfigFile": "Query1.db.query.tspp",
+    "filter": {
+        "limitFilter": {
+            "limitType": "ALL"
+        }
+    }
+}

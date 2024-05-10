@@ -1,0 +1,22 @@
+{
+    "columns": [
+        {
+            "type": "text",
+            "name": "Column1"
+        },
+        {
+            "type": "text",
+            "name": "Column2"
+        }
+    ],
+    "rows": [
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}

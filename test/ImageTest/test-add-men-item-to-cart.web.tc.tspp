@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that the user can add an item to the cart from the Men's section
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Click on the 'Men' category
+Click on an item
+Select a size
+Select a color
+Click 'ADD TO CART' --> Verify that the item is added to the cart
+ --> Verify that the cart count is incremented by 1
+^^
+
+

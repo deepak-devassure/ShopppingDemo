@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify that only Admin users can access the Users page
+>>tags: 
+>>feature: UserPage
+
+
+^^detailed_steps
+Login to the application with non-admin credentials
+Attempt to navigate to the Users page --> Verify that access to the Users page is denied
+^^
+
+

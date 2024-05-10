@@ -1,0 +1,12 @@
+{
+    "testType": "web",
+    "additionalTests": [
+        "UserPage > test-revoke-admin.web"
+    ],
+    "tags": [
+        [
+            "user"
+        ]
+    ],
+    "features": []
+}

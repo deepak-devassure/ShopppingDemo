@@ -1,0 +1,8 @@
+{
+    "name": "ShoppingDemo",
+    "id": "com.da.shopping",
+    "automationTypes": [
+        "web"
+    ],
+    "path": "/Users/santhoshkumar/test-projects/evershop/my-app/da-automation/ShoppingDemo/"
+}

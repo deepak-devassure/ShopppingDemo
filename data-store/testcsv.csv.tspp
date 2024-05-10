@@ -1,0 +1,18 @@
+{
+    "separator": ",",
+    "file": "wiki2.csv",
+    "columnMapping": {
+        "mappingType": "CUSTOM",
+        "columns": [
+            {
+                "index": 0,
+                "mappingName": "searchterm"
+            },
+            {
+                "index": 1,
+                "mappingName": "expectedresultcount"
+            }
+        ]
+    },
+    "firstRowAsHeader": true
+}

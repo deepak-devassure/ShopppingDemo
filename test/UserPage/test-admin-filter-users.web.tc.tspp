@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Confirm Admin can filter users by status
+>>tags: accessibility
+>>feature: UserPage
+
+
+^^detailed_steps
+Log in with an Admin account
+Navigate to the Users page
+Select a status filter (e.g., Active, Pending, Invited) --> Verify that the users list is filtered based on the selected status
+^^
+
+--Open URL-- [[https://wikipedia.org]] 
+--Visually compare element-- {{web > Devassure > body}} --to snapshot with label-- [[body1]] 
+--Visually compare page to snapshot with label-- [[snap1]] 
+--Verify Accessibility of page-- 
+

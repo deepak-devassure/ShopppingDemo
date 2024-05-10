@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that user can apply a promotion code on the cart
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Add an item to the cart
+Click on the cart icon
+Enter a promotion code into the promo code field
+Click 'Apply' --> Verify that the discount is applied to the total
+^^
+
+

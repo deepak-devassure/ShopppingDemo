@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify that the user can view the list of items on the Men's section
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Click on the 'Men' category --> Verify the list of items is displayed
+ --> Verify that each item has an image, name, and price displayed
+^^
+
+

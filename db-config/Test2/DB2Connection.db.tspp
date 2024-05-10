@@ -1,0 +1,17 @@
+[
+    {
+        "environments": [
+            "default"
+        ],
+        "is_default": true,
+        "config": {
+            "connection_type": "mysql",
+            "host": "localhost",
+            "port": 3306,
+            "database": "test",
+            "username": "root",
+            "password": "password"
+        },
+        "id": "DB2Connection.db.tspp"
+    }
+]

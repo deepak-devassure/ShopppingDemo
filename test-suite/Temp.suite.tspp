@@ -1,0 +1,12 @@
+{
+    "features": [
+        "UserShopping"
+    ],
+    "tags": [
+        [
+            "data1"
+        ]
+    ],
+    "additionalTests": [],
+    "testType": "web"
+}

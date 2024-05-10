@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify purchase above maximum credits is not allowed
+>>tags: 
+>>feature: AICredits
+
+
+^^detailed_steps
+Navigate to 'Add Credits' section
+Try to select a value above '50' from the credit purchase dropdown --> Verify that values above '50' are not selectable
+Click on 'Buy' --> Verify that the transaction is not processed and an error message is displayed
+^^
+
+

@@ -1,0 +1,149 @@
+>>summary: 
+>>recorderName: DevAssure
+
+==frame_78;CSS;[data-product='${label}'];;[CSS:[title='No content']^^CSS:iframe];[frame_78];[DevAssure];==
+==___privateStripeController2351;CSS;[name='__privateStripeController2351'];;[CSS:iframe:nth-child(6)];[___privateStripeController2351];[DevAssure];==
+==___privateStripeMetricsControll;CSS;[name='__privateStripeMetricsController2350'];;[CSS:iframe:nth-child(7)];[___privateStripeMetricsControll];[DevAssure];==
+==fieldGroup134;CSS;.fieldGroup-134;;[CSS:div:nth-child(3) > div > div];[fieldGroup134];[DevAssure];==
+==DevAssureLogInDonthaveanaccoun;CSS;.___1ttuad1_0000000;;[CSS:#root > div > div:nth-child(1)];[DevAssureLogInDonthaveanaccoun];[DevAssure];==
+==LogIn;XPATH;//button[text()="LogIn"];Button;[CSS:.fui-Button^^CSS:button:nth-child(4)];[LogIn];[DevAssure];==
+==Subscription;XPATH;//div[text()="Subscription"];;[CSS:[href='\/subscription'] .ms-Nav-linkText^^CSS:li:nth-child(4) > div div];[Subscription];[DevAssure];==
+==_20;XPATH;//span[text()="20"];;[CSS:div:nth-child(2) > div:nth-child(2) > div > div:nth-child(1) > span:nth-child(2)];[_20];[DevAssure];==
+==___privateStripeController9531;CSS;[name='__privateStripeController9531'];;[CSS:iframe];[___privateStripeController9531];[DevAssure];==
+==___privateStripeMetricsControll_2;CSS;[name='__privateStripeMetricsController9530'];;[CSS:iframe:nth-child(4)];[___privateStripeMetricsControll];[DevAssure];==
+==Close_message;CSS;[title='Close message'];;[CSS:[title='Close\ message']^^CSS:iframe:nth-child(1)];[Close_message];[DevAssure];==
+==Message_from_company;CSS;[title='Message from company'];;[CSS:[title='Message\ from\ company']^^CSS:iframe:nth-child(2)];[Message_from_company];[DevAssure];==
+==Button_to_launch_messaging_win;CSS;#launcher;;[CSS:[title='Button to launch messaging window']];[Button_to_launch_messaging_win];[DevAssure];==
+==___privateStripeController4231;CSS;[name='__privateStripeController4231'];;[CSS:iframe];[___privateStripeController4231];[DevAssure];==
+==___privateStripeMetricsControll_3;CSS;[name='__privateStripeMetricsController4230'];;[CSS:iframe:nth-child(4)];[___privateStripeMetricsControll];[DevAssure];==
+==TextField15;CSS;#TextField15;Input;[CSS:[placeholder='Enter your password']^^CSS:[type='password']^^CSS:div:nth-child(3) input];[TextField15];[DevAssure];==
+==___privateStripeController2081;CSS;[name='__privateStripeController2081'];;[CSS:[scrolling]^^CSS:iframe:nth-child(7)];[___privateStripeController2081];[DevAssure];==
+==Razorpay_Checkout;CSS;.razorpay-checkout-frame;;[CSS:div:nth-child(6) > iframe];[Razorpay_Checkout];[DevAssure];==
+==Sign_In__Google_Accounts;CSS;#gsi_152382_936480;;[CSS:[title='Sign in with Google Button']^^CSS:div:nth-child(1) > div > div > iframe];[Sign_In__Google_Accounts];[DevAssure];==
+==___privateStripeMetricsControll_4;CSS;[name='__privateStripeMetricsController2080'];;[CSS:iframe:nth-child(10)];[___privateStripeMetricsControll];[DevAssure];==
+==SignIn;XPATH;//button[text()="Sign In"];Button;[CSS:.fui-Button^^CSS:button:nth-child(4)^^CSS:.fecsdlb^^CSS:.fbgcvur^^CSS:.fcnxywj^^CSS:.fmxjhhp];[SignIn];[DevAssure];==
+==Somethingwentwrong;XPATH;//div[text()="Something went wrong"];;[CSS:div:nth-child(1) > div > div:nth-child(1) > div:nth-child(2)];[Somethingwentwrong];[DevAssure];==
+==___privateStripeController4101;CSS;[name='__privateStripeController4101'];;[CSS:iframe:nth-child(5)];[___privateStripeController4101];[DevAssure];==
+==Sign_In__Google_Accounts_2;CSS;#gsi_774686_695468;;[CSS:[title='Sign in with Google Button']^^CSS:iframe:nth-child(2)];[Sign_In__Google_Accounts];[DevAssure];==
+==___privateStripeMetricsControll_5;CSS;[name='__privateStripeMetricsController4100'];;[CSS:iframe:nth-child(6)];[___privateStripeMetricsControll];[DevAssure];==
+==Invalidemailorpassword;XPATH;//div[text()="Invalid email or password"];;[CSS:div:nth-child(1) > div > div:nth-child(1) > div:nth-child(2)];[Invalidemailorpassword];[DevAssure];==
+==___privateStripeController0821;CSS;[name='__privateStripeController0821'];;[CSS:[frameborder]^^CSS:iframe:nth-child(5)];[___privateStripeController0821];[DevAssure];==
+==Sign_In__Google_Accounts_3;CSS;#gsi_709877_14752;;[CSS:[title='Sign in with Google Button']^^CSS:div:nth-child(1) > div > div > iframe];[Sign_In__Google_Accounts];[DevAssure];==
+==___privateStripeMetricsControll_6;CSS;[name='__privateStripeMetricsController0820'];;[CSS:iframe:nth-child(8)];[___privateStripeMetricsControll];[DevAssure];==
+==___privateStripeController6351;CSS;[name='__privateStripeController6351'];;[CSS:[frameborder]^^CSS:iframe:nth-child(8)];[___privateStripeController6351];[DevAssure];==
+==Sign_In__Google_Accounts_4;CSS;#gsi_909928_422411;;[CSS:[title='Sign in with Google Button']^^CSS:div:nth-child(1) > div > div > iframe];[Sign_In__Google_Accounts];[DevAssure];==
+==___privateStripeMetricsControll_7_copy_copy;CSS;[name='__privateStripeMetricsController6350'];;[CSS:iframe:nth-child(9)];[___privateStripeMetricsControll];[DevAssure];==
+==___privateStripeMetricsControll_7_copy;CSS;[name='__privateStripeMetricsController6350'];;[CSS:iframe:nth-child(9)];[___privateStripeMetricsControll];[DevAssure];==
+==___privateStripeMetricsControll_7;CSS;[name='__privateStripeMetricsController6350'];;[CSS:iframe:nth-child(9)];[___privateStripeMetricsControll];[DevAssure];==
+==body;XPATH;//body;Section;[];[];[];==
+==Checkedbox;CSS;#flexCheckChecked;Check Box;[];[];[];==
+==UncheckedBox_copy;CSS;#flexCheckDefault;Check Box;[];[];[];==
+==UncheckedBox;CSS;#flexCheckDefault;Check Box;[];[];[];==
+==___privateStripeController8591;CSS;[name='__privateStripeController8591'];;[CSS::root > :nth-child(2) > :nth-child(5)^^CSS:iframe:nth-child(5)];[___privateStripeController8591];[DevAssure];==
+==___privateStripeMetricsControll_8;CSS;[name='__privateStripeMetricsController8590'];;[CSS::root > :nth-child(2) > :nth-child(8)^^CSS:iframe:nth-child(8)];[___privateStripeMetricsControll];[DevAssure];==
+==email_copy3;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy2;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy1;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy17;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy16;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy15;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy14;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy13;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy12;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy11;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy10;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy9;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy8;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy7;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy6;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy5;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy4;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email_copy18;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+==email;CSS;[type='email'];Input;[CSS:.field-145^^CSS:div:nth-child(1) > div > div > div > div > div > input];[email];[DevAssure];==
+
+
+^^login()
+	--Click on-- {{userEmail2}} 
+	--Input value-- ::email:: --in-- {{userEmail2}} 
+	--Press keyboard keys-- [[Tab]] --on-- {{userEmail2}} 
+	--Input value-- ::password:: --in-- {{TextField15}} 
+	--Click on-- {{LogIn}} 
+	--Click on-- {{Close_message}} 
+
+^^
+
+#testing commnet
+^^Login(email:text, password:text, test3:http_message)
+	--Click on-- {{userEmail2}} 
+	--Input value-- ::email:: --in-- {{userEmail2}} 
+	--Click on-- {{password}} 
+	--Input value-- ::password:: --in-- {{password}} 
+	--Click on-- {{LogIn}} 
+	::isChecked_6 = --Is element checked-- {{Button_to_launch_messaging_win}} 
+
+^^
+
+^^Login1(username:text)
+	--Click on-- {{userEmail2}} 
+	--Input value-- ::username:: --in-- {{userEmail2}} 
+	--Click on-- {{frame_78}} 
+
+^^
+
+^^TestFn(arg1:text, arg2:number)
+	--Open URL-- [[http://wikipedia.org]] 
+	--Click on-- {{Subscription}} 
+	--Hover on-- {{SignIn}} 
+
+^^
+
+^^LargeFn(arg1:element, arg2:number, arg3:boolean) -> number
+	--Click on-- {{___privateStripeController4101}} --with index n-- [[4]] 
+>{
+for(let i = 0; i< 10; i++) {
+::--Click on-- {{Close_message}} --with index n-- [[4]] 
+}
+}<
+	__TestFn__ ::secrets.test1.pass:: ::constants.TestConstant.Test2:: 
+	--Scroll-- {{TextField15}} --into view-- 
+	--return-- [[4]] 
+
+^^
+
+^^LargeFn_copy()
+	--Click on-- {{___privateStripeController4101}} --with index n-- [[4]] 
+>{
+for(let i = 0; i< 10; i++) {
+::--Click on-- {{Close_message}} --with index n-- [[4]] 
+}
+}<
+
+^^
+
+^^LargeFn_copy1(arg1:element, arg2:number, arg3:boolean) -> number
+	--Click on-- {{___privateStripeController4101}} --with index n-- [[4]] 
+>{
+for(let i = 0; i< 10; i++) {
+::--Click on-- {{Close_message}} --with index n-- [[4]] 
+}
+}<
+	__TestFn__ ::secrets.test1.pass:: ::constants.TestConstant.Test2:: 
+	--Scroll-- {{TextField15}} --into view-- 
+	--return-- [[4]] 
+
+^^
+
+^^GetData() -> text
+>{
+let x = "Sandy123";
+}<
+	--return-- [[${x}]] 
+
+^^
+
+^^isPresent(name:text)
+	::isPresent_1 = --Is element-- {{frame_78}}(( label: ::name )) --present within-- [[100]] --milliseconds-- 
+	--Print log-- [[Present == ${isPresent_1}]] 
+
+^^

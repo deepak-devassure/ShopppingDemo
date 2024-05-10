@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+
+
+::apiResponse_1 = --Call API-- {{API > FirstAPI}} (([[]], [[]])) 
+--Verify Json body of http response-- ::apiResponse_1:: [[data.users[0].email]]  [[]] 
+>{
+data.users.foreach(user => {
+  
+})
+}<
+
+

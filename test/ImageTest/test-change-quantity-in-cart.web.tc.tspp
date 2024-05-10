@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that user can change the quantity of an item in the cart
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Add an item to the cart
+Click on the cart icon
+Change the quantity of an item --> Verify that the total price is updated according to the new quantity
+^^
+
+

@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify credits rollover to the next cycle
+>>tags: 
+>>feature: AICredits
+
+
+^^detailed_steps
+Navigate to 'AI Credits' section --> Verify the current cycle's remaining credits
+Wait for the billing cycle to end --> Verify that the remaining credits from the previous cycle are added to the new cycle
+^^
+
+

@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that an Admin can invite team members successfully
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the 'Users' page
+Click on the 'Add Members' button
+Enter a valid 'email' in the invite field
+Select 'Admin' role
+Click on the 'Invite' button --> Verify that an invitation is sent to the provided email address and the status is displayed as 'Invited'
+^^
+
+

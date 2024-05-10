@@ -1,0 +1,45 @@
+>>summary: 
+>>recorderName: Google
+
+==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
+==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^XPATH://button[text()="Stay signed out"]^^CSS:button];[Staysignedout];[Google];==
+==Google;CSS;[data-atf='1'];;[CSS:div:nth-child(2) > div > img^^CSS:.lnXdpd];[Google];[Google];==
+==Saveyourpasswordssecurelywithy;XPATH;//span;;[CSS:span];[Saveyourpasswordssecurelywithy];[Google];==
+==formdivdivdivnthchild3div;CSS;form > div > div > div:nth-child(3) > div;;[CSS:.SDkEP];[formdivdivdivnthchild3div];[Google];==
+==Search;CSS;#APjFqb;;[CSS:.gLFyf];[Search];[Google];==
+==callout;XPATH;//iframe;;[CSS:iframe];[callout];[Google];==
+==app;CSS;div:nth-child(4) > iframe;;[];[app];[Google];==
+==Search_2;CSS;[data-ved='0ahUKEwjtrtjsqKOEAxVY7zgGHdxYBmQQ39UDCAQ'];;[CSS:#APjFqb^^CSS:.gLFyf];[Search];[Google];==
+==QCzoEcsvg;CSS;.QCzoEc svg;;[CSS:div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span > svg];[QCzoEcsvg];[Google];==
+==multi;CSS;textarea[autofocus];;[];[];[];==
+==dismissFrame;CSS;[name='callout'];;[CSS:iframe];[callout];[Google];==
+==_0ahUKEwjpxObNz_2EAxUVfWwGHZeGD;CSS;[data-ved='0ahUKEwjpxObNz_2EAxUVfWwGHZeGDa8Q4dUDCBE'];Button;[CSS:.FPdoLc .gNO89b^^CSS:center:nth-child(1) > input:nth-child(1)];[_0ahUKEwjpxObNz_2EAxUVfWwGHZeGD];[Google];==
+==Staysignedout_2;CSS;[aria-label='Stay signed out'];Button;[CSS:button^^XPATH://button[text()="Stay signed out"]^^CSS:.rr4y5c];[Staysignedout];[Google];==
+==Google_2;CSS;[alt='Google'];;[CSS:.lnXdpd^^CSS:div:nth-child(2) > div > img];[Google];[Google];==
+==Search_3;CSS;[title='Search'];;[CSS:[name='q']^^CSS:[aria-label='Search']^^CSS:.gLFyf^^CSS:textarea:nth-child(3)];[Search];[Google];==
+
+
+^^OpenSearch()
+	--Switch to iframe-- {{callout_2}} 
+	--Click on-- {{Staysignedout}} 
+	--Switch to parent frame-- 
+	--Click on-- {{Search}} 
+	--Click on-- {{SignintoGoogle}}(( label: Dismiss )) 
+
+^^
+
+^^getUrl(prefix:text, domain:text) -> url
+>{
+const url = `https://${prefix}.${domain}`
+}<
+	--return-- [[${url}]] 
+
+^^
+
+^^validateId(id:text)
+	::url = --Get page URL-- 
+>{
+const parts = url.split('\/');
+}<
+
+^^
