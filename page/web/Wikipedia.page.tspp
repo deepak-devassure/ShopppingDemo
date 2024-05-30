@@ -7,3 +7,9 @@
 ^^Fn1(arg1:text)
 
 ^^
+
+^^goBack()
+	--Go back-- 
+	--Wait for page load within-- [[200]] --milliseconds-- 
+
+^^

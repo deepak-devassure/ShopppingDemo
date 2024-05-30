@@ -2,6 +2,8 @@
 >>summary: Verify credits rollover to the next cycle
 >>tags: 
 >>feature: AICredits
+>>feature: AICredits
+>>priority: 
 
 
 ^^detailed_steps
@@ -9,4 +11,5 @@ Navigate to 'AI Credits' section --> Verify the current cycle's remaining credit
 Wait for the billing cycle to end --> Verify that the remaining credits from the previous cycle are added to the new cycle
 ^^
 
+--Open URL-- ::urls.SITE_URL:: 
 
