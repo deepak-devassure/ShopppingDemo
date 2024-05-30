@@ -10,6 +10,6 @@
 
 ^^goBack()
 	--Go back-- 
-	--Wait for page load within-- [[200]] --milliseconds-- 
+	--Wait for-- [[2000]] --milliseconds-- 
 
 ^^
