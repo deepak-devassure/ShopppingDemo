@@ -8,5 +8,6 @@
         ]
     ],
     "additionalTests": [],
-    "testType": "web"
+    "testType": "web",
+    "priority": []
 }
