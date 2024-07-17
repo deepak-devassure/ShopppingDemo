@@ -8,5 +8,5 @@
             "user"
         ]
     ],
-    "features": []
+    "features": ["ImageTest"]
 }
