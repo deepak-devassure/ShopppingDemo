@@ -2,7 +2,7 @@
     "tags": [],
     "additionalTests": [],
     "priority": [
-        "P3"
+        "P0"
     ],
     "testType": "web"
 }
