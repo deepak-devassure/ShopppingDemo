@@ -2,12 +2,12 @@
     "tags": [],
     "additionalTests": [],
     "priority": [
-        "P1",
-        "p3"
+        "P0",
+        "p4"
     ],
-    "testType": "api",
+    "testType": "web",
     "features": [
-        "ImageTest",
-        "UserPage"
+        "NavTest",
+        "Dummy"
     ]
 }
