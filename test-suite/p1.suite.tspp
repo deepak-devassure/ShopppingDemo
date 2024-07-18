@@ -1,18 +1,18 @@
 {
     "tags": [
         [
-            "xyz",
-            "ysd"
+            "dfg",
+            "asdsdfds"
         ]
     ],
     "additionalTests": [],
     "priority": [
-        "P0"
-
+        "P1",
+        "P3"
     ],
     "testType": "web",
     "features": [
-        "NavTest",
-        "Dummy"
+        "WebOnboarding",
+        "ShoppingHome"
     ]
 }
