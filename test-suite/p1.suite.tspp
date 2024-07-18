@@ -11,6 +11,7 @@
         "P3"
     ],
     "testType": "web",
+
     "features": [
         "WebOnboarding",
         "ShoppingHome"
