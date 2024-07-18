@@ -8,10 +8,11 @@
     "additionalTests": [],
     "priority": [
         "P0"
+
     ],
-    "testType": "api",
+    "testType": "web",
     "features": [
-        "UserShopping",
-        "WebOnboarding"
+        "NavTest",
+        "Dummy"
     ]
 }
