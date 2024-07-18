@@ -2,12 +2,13 @@
     "tags": [],
     "additionalTests": [],
     "priority": [
-        "P0",
-        "p4"
+        "P1",
+        "p3"
     ],
     "testType": "web",
+
     "features": [
-        "NavTest",
-        "Dummy"
+        "Staged",
+        "Files"
     ]
 }
