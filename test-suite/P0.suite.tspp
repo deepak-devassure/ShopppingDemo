@@ -8,7 +8,12 @@
             "user"
         ]
     ],
+<<<<<<< HEAD
     "features": [
         "ImageTest"
     ]
 }
+=======
+    "features": ["ImageTest"]
+}
+>>>>>>> 7f9a38e8202103808103bd5b0fa8e0913c806ce4
