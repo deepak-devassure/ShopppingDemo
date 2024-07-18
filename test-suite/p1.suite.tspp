@@ -1,13 +1,17 @@
 {
-    "tags": [],
+    "tags": [
+        [
+            "xyz",
+            "ysd"
+        ]
+    ],
     "additionalTests": [],
     "priority": [
-        "P1",
-        "p3"
+        "P0"
     ],
     "testType": "api",
     "features": [
-        "ImageTest",
-        "UserPage"
+        "UserShopping",
+        "WebOnboarding"
     ]
 }
