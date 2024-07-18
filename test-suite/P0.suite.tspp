@@ -9,6 +9,10 @@
         ]
     ],
     "features": [
-        "ImageTest"
+        "UserPage"
+    ],
+    "priority": [
+        "P0",
+        "P1"
     ]
 }
