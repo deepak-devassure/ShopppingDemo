@@ -2,7 +2,12 @@
     "tags": [],
     "additionalTests": [],
     "priority": [
-        "P1"
+        "P2",
+        "P3"
     ],
-    "testType": "api"
+    "testType": "api",
+    "features": [
+        "TestNotes",
+        "UserShopping"
+    ]
 }
