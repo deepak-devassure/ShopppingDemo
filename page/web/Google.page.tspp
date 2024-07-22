@@ -1,8 +1,7 @@
->>summary: 
->>recorderName: Google
+>>summary: this is the summary
 
 ==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
-==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^XPATH://button[text()="Stay signed out"]^^CSS:button];[Staysignedout];[Google];==
+==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^XPATH://button[text()="Stay signed out"]];[Staysignedout];[Google];==
 ==Google;CSS;[data-atf='1'];;[CSS:div:nth-child(2) > div > img^^CSS:.lnXdpd];[Google];[Google];==
 ==Saveyourpasswordssecurelywithy;XPATH;//span;;[CSS:span];[Saveyourpasswordssecurelywithy];[Google];==
 ==formdivdivdivnthchild3div;CSS;form > div > div > div:nth-child(3) > div;;[CSS:.SDkEP];[formdivdivdivnthchild3div];[Google];==
@@ -19,12 +18,12 @@
 ==Search_3;CSS;[title='Search'];;[CSS:[name='q']^^CSS:[aria-label='Search']^^CSS:.gLFyf^^CSS:textarea:nth-child(3)];[Search];[Google];==
 
 
-^^OpenSearch()
+^^OpenSearch123()
 	--Switch to iframe-- {{callout_2}} 
-	--Click on-- {{Staysignedout}} 
+	--Click on-- {{Staysignedout_2}} 
 	--Switch to parent frame-- 
 	--Click on-- {{Search}} 
-	--Click on-- {{SignintoGoogle}}(( label: Dismiss )) 
+	--Click on-- {{SignintoGoogle}}(( label: ::secrets.test1.pass )) 
 
 ^^
 
@@ -36,10 +35,16 @@ const url = `https://${prefix}.${domain}`
 
 ^^
 
-^^validateId(id:text)
+^^validateId1(arg2:text, url:url)
 	::url = --Get page URL-- 
 >{
 const parts = url.split('\/');
 }<
+	--Open URL-- ::url:: 
+
+^^
+
+^^newFunc()
+	--Open URL-- ::urls.SITE_URL:: 
 
 ^^

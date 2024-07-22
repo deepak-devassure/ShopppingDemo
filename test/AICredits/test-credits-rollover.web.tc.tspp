@@ -1,9 +1,11 @@
->>testDataType: undefined
+>>testDataType: NONE
 >>summary: Verify credits rollover to the next cycle
 >>tags: 
->>feature: AICredits
->>feature: AICredits
->>priority: 
+>>feature: UserShopping
+>>ticketUrl: 
+>>importSource: 
+>>priority: 3
+>>aiRequestId: 
 
 
 ^^detailed_steps
@@ -12,4 +14,6 @@ Wait for the billing cycle to end --> Verify that the remaining credits from the
 ^^
 
 --Open URL-- ::urls.SITE_URL:: 
+--Go back-- 
+--Wait for URL-- ::secrets.test1.pass:: 
 

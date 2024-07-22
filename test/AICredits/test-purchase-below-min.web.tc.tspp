@@ -11,7 +11,7 @@ Click on 'Buy' --> Verify that the transaction is not processed and an error mes
 ^^
 
 --Open URL-- ::urls.SITE_URL:: 
-__web > Google > OpenSearch__ 
+__web > Google > OpenSearch123__ 
 --Input value-- ::testData.searchterm:: --in-- {{web > Google > Search}} 
 --Press keyboard keys-- [[Enter]] --on-- {{web > Google > Search}} 
 --Verify Accessibility of page-- 
