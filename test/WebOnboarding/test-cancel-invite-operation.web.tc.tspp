@@ -1,6 +1,6 @@
 >>testDataType: DATABASE_QUERY
 >>summary: Verify if user can cancel the invite operation for team members. Sumary is chnged
->>tags: sjbcs, skdnsk, sdsfc
+>>tags: ths, dfh
 >>feature: WebOnboarding
 >>ticketUrl: 
 >>importSource: 
@@ -10,7 +10,7 @@
 
 ^^detailed_steps
 Navigate to 'Users' tab in the dashboard
-Click on 'Add member' button. Added --> Verify that added is added as a conflict
+Click on 'Add member' button. Removed --> Verified
 Enter the email address in the 'Invite users' modal
 Click on 'Admin' checkbox if admin rights are to be given
 Click on 'Cancel' button --> Verify that no new team member is added and the 'Invite users' modal is closed
