@@ -2,7 +2,7 @@
 >>recorderName: Google
 
 ==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
-==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^XPATH://button[text()="Stay signed out"]];[Staysignedout];[Google];==
+==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^CSS:button];[Staysignedout];[Google];==
 ==Google;CSS;[data-atf='1'];;[CSS:div:nth-child(2) > div > img^^CSS:.lnXdpd];[Google];[Google];==
 ==Saveyourpasswordssecurelywithy;XPATH;//span;;[CSS:span];[Saveyourpasswordssecurelywithy];[Google];==
 ==formdivdivdivnthchild3div;CSS;form > div > div > div:nth-child(3) > div;;[CSS:.SDkEP];[formdivdivdivnthchild3div];[Google];==
