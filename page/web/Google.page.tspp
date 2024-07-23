@@ -1,4 +1,5 @@
->>summary: this is the summary
+>>summary: Summary from remote
+>>recorderName: Google
 
 ==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
 ==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^XPATH://button[text()="Stay signed out"]];[Staysignedout];[Google];==
@@ -18,12 +19,13 @@
 ==Search_3;CSS;[title='Search'];;[CSS:[name='q']^^CSS:[aria-label='Search']^^CSS:.gLFyf^^CSS:textarea:nth-child(3)];[Search];[Google];==
 
 
-^^OpenSearch123()
+^^OpenSearch(url:url)
 	--Switch to iframe-- {{callout_2}} 
 	--Click on-- {{Staysignedout_2}} 
 	--Switch to parent frame-- 
 	--Click on-- {{Search}} 
-	--Click on-- {{SignintoGoogle}}(( label: ::secrets.test1.pass )) 
+	--Click on-- {{SignintoGoogle}}(( label: Dismiss )) 
+	--Open URL-- [[]] **Step has invalid parameters that will be removed on save: {{url}}** 
 
 ^^
 
