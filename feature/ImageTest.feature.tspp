@@ -1,4 +1,4 @@
-
+>>summary: this is the summary from local
 
 ^^^^tspp_spec_start type:PLAIN_TEXT
 <div style="font-size: inherit;"><b style="text-align: start; text-decoration: none; font-weight: normal; color: rgb(0, 0, 0);"><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:6pt"><span style="font-size:16pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre-wrap">User Shopping Workflows Specification</span></h2><h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style="font-size: 14pt; font-family: Arial, sans-serif; font-weight: 400; text-decoration: none; white-space: pre-wrap; color: rgb(67, 67, 67);">Overview</span></h3><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre-wrap">The user shopping workflows on the demo website consist of two primary processes: browsing products and buying products. These workflows are designed to facilitate an intuitive and efficient shopping experience for users.</span></p><h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style="font-size: 14pt; font-family: Arial, sans-serif; font-weight: 400; text-decoration: none; white-space: pre-wrap; color: rgb(67, 67, 67);">1. Browsing Products Workflow</span></h3><h4 dir="ltr" style="line-height:1.38;margin-top:14pt;margin-bottom:4pt"><span style="font-size: 12pt; font-family: Arial, sans-serif; font-weight: 400; text-decoration: none; white-space: pre-wrap; color: rgb(102, 102, 102);">1.1 Homepage</span></h4><ul style="margin-top:0px;margin-bottom:0px;padding-inline-start:48px"><li dir="ltr" style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre">
@@ -37,8 +37,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">Order Review: A summary of the order including items, prices, shipping costs, and taxes is presented for review.</span></p>
 &nbsp; &nbsp; &nbsp; </li><li dir="ltr" style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre">
 &nbsp; &nbsp; &nbsp; &nbsp; <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">Order Confirmation: Users receive confirmation of their order with an order number and estimated delivery information.</span></p>
-&nbsp; &nbsp; &nbsp; </li></ul><h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style="font-size: 14pt; font-family: Arial, sans-serif; font-weight: 400; text-decoration: none; white-space: pre-wrap; color: rgb(67, 67, 67);">Additional Functionalities</span></h3><ul style="margin-top:0px;margin-bottom:0px;padding-inline-start:48px"><li dir="ltr" style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre">
-&nbsp; &nbsp; &nbsp; &nbsp; <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">Account Management: Users can create accounts to manage orders, track shipments, and save preferences.</span></p>
+&nbsp; &nbsp; &nbsp; </li></ul><h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style="font-size: 14pt; font-family: Arial, sans-serif; font-weight: 400; text-decoration: none; white-space: pre-wrap; color: rgb(67, 67, 67);">Additional Functionalities</span></h3><ul style="margin-top:0px;margin-bottom:0px;padding-inline-start:48px"><li dir="ltr" style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre"><span style="white-space: pre-wrap; font-size: 11pt;">Account Management: Users can create accounts to manage orders, track shipments, and save preferences.</span><br>
 &nbsp; &nbsp; &nbsp; </li><li dir="ltr" style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre">
 &nbsp; &nbsp; &nbsp; &nbsp; <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">Wishlist: Users can add products to a wishlist for future purchase considerations.</span></p>
 &nbsp; &nbsp; &nbsp; </li><li dir="ltr" style="font-size:11pt;font-family:Arial, sans-serif;font-weight:400;text-decoration:none;white-space:pre">
@@ -60,7 +59,6 @@
 
 ^^^^tspp_images_start
 [
-{"type":"file","link":"g6ozXn.png"},
 {"type":"file","link":"KdZEY0.png"},
 {"type":"file","link":"zsz5bC.png"},
 {"type":"file","link":"Ni4zMK.png"},

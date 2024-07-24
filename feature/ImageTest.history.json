@@ -21,6 +21,26 @@
             "data": {
                 "numTestCases": 8
             }
+        },
+        {
+            "timestamp": "2024-07-23T11:32:02.086Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak V"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-07-24T09:31:14.854Z",
+            "action": "UPDATED_MOCKUP",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak V"
+            },
+            "data": {}
         }
     ]
 }
