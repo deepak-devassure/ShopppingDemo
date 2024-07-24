@@ -1,8 +1,8 @@
->>summary: 
+>>summary: Summary from remote
 
 
 
 ^^Common::dfs()
-	::apiResponse_1 = --Call API-- {{API > FirstAPI}} ((::constants.TestConstant.Test2::, ::constants.TestConstant.username::, [[]])) 
+	::apiResponse_1 = --Call API-- {{API > FirstAPI}} ((::constants.TestConstant.Test2::, [[]])) 
 
 ^^
