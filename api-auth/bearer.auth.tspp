@@ -1,0 +1,5 @@
+{
+    "authType": "Basic Auth",
+    "userName": "::constants.TestConstant.username",
+    "password": "::constants.TestConstant.password"
+}

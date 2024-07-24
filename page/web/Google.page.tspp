@@ -1,5 +1,4 @@
 >>summary: Summary from remote
->>recorderName: Google
 
 ==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
 ==Staysignedout;CSS;[data-dismiss='n'];Button;[XPATH://button^^CSS:button];[Staysignedout];[Google];==
@@ -48,5 +47,6 @@ const parts = url.split('\/');
 
 ^^newFunc()
 	--Open URL-- ::urls.SITE_URL:: 
+	--Reload page-- 
 
 ^^

@@ -1,8 +1,9 @@
->>summary: 
+>>summary: summary from local
 
 
 
 ^^Common::dfs()
 	::apiResponse_1 = --Call API-- {{API > FirstAPI}} ((::constants.TestConstant.Test2::, ::constants.TestConstant.username::, [[]])) 
+	--Verify status code of http response-- ::apiResponse_1:: > [[200]] 
 
 ^^

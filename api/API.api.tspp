@@ -23,7 +23,20 @@
 ^^API2()
 {
     "method": "GET",
-    "baseUrl": "",
-    "path": ""
+    "baseUrl": "::urls.SITE_URL",
+    "path": "",
+    "request": {
+        "queryParams": [
+            {
+                "name": "",
+                "value": "",
+                "type": "text"
+            }
+        ],
+        "auth": {
+            "authType": "Saved Auth",
+            "file": ""
+        }
+    }
 }
 ^^
