@@ -9,6 +9,18 @@
                 "name": "Deepak V"
             },
             "data": {}
+        },
+        {
+            "timestamp": "2024-07-24T09:54:22.498Z",
+            "action": "ADDED_TEST_CASES",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak V"
+            },
+            "data": {
+                "numTestCases": 1
+            }
         }
     ]
 }

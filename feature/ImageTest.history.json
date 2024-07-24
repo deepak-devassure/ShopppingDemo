@@ -41,6 +41,16 @@
                 "name": "Deepak V"
             },
             "data": {}
+        },
+        {
+            "timestamp": "2024-07-24T10:45:00.495Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak V"
+            },
+            "data": {}
         }
     ]
 }
