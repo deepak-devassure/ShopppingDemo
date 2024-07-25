@@ -57,7 +57,7 @@
             }
         ],
         "body": {
-            "data": '\{\}\'
+            "data": "{\n\"type\": \"json\"\n}",
             "type": "json"
         }
     }
