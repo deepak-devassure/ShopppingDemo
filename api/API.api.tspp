@@ -20,16 +20,16 @@
 }
 ^^
 
-^^get_params(text:text, url:text)
+^^get_params(url:text, text:url)
 {
-    "method": "PATCH",
+    "method": "POST",
     "baseUrl": "::urls.SITE_URL",
-    "path": "xyz/yzx/kjija",
+    "path": "xyz/yzx/asd",
     "request": {
         "queryParams": [
             {
                 "name": "page",
-                "value": "40",
+                "value": "30",
                 "type": "text"
             },
             {
@@ -40,7 +40,7 @@
         ],
         "auth": {
             "authType": "Bearer Token",
-            "bearerToken": "adsafsdafasdsafd123"
+            "bearerToken": "asfjbajsdf"
         },
         "headers": [
             {
@@ -49,9 +49,9 @@
                 "type": "text"
             },
             {
-                "name": "Cookie",
+                "name": "Cookie1",
                 "type": "text",
-                "value": "devassure_session=asjdhbjafbadbfjdfwwqwe12"
+                "value": "devassure_session=asjdhbjafbadbf"
             }
         ],
         "body": {
