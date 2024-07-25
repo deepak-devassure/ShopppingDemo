@@ -20,7 +20,49 @@
 }
 ^^
 
-^^API2()
+^^get_params()
+{
+    "method": "GET",
+    "baseUrl": "::urls.SITE_URL",
+    "path": "xyz/yzx",
+    "request": {
+        "queryParams": [
+            {
+                "name": "page",
+                "value": "20",
+                "type": "text"
+            },
+            {
+                "name": "size",
+                "type": "text",
+                "value": "25"
+            }
+        ],
+        "auth": {
+            "authType": "Bearer Token",
+            "bearerToken": "adsafsdaf"
+        },
+        "headers": [
+            {
+                "name": "Authorization",
+                "value": "Bearer token",
+                "type": "text"
+            },
+            {
+                "name": "Cookie",
+                "type": "text",
+                "value": "devassure_session=asjdhbjafbadbfjdf"
+            }
+        ],
+        "body": {
+            "data": "{\n\"name\": \"name\",\n\"email\": \"email\"\n}",
+            "type": "json"
+        }
+    }
+}
+^^
+
+^^xzxj()
 {
     "method": "GET",
     "baseUrl": "::urls.SITE_URL",
@@ -28,15 +70,11 @@
     "request": {
         "queryParams": [
             {
-                "name": "",
-                "value": "",
+                "name": "asd",
+                "value": "asd",
                 "type": "text"
             }
-        ],
-        "auth": {
-            "authType": "Saved Auth",
-            "file": ""
-        }
+        ]
     }
 }
 ^^
