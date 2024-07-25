@@ -57,19 +57,8 @@
             }
         ],
         "body": {
-            "data": [
-                {
-                    "name": "wef",
-                    "type": "text",
-                    "value": "qerer"
-                },
-                {
-                    "name": "awd",
-                    "type": "text",
-                    "value": "qwdqwed"
-                }
-            ],
-            "type": "form"
+            "data": '\{\}\'
+            "type": "json"
         }
     }
 }
