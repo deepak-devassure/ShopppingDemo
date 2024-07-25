@@ -20,42 +20,42 @@
 }
 ^^
 
-^^get_params()
+^^get_params(text:text, url:text)
 {
-    "method": "GET",
+    "method": "PATCH",
     "baseUrl": "::urls.SITE_URL",
-    "path": "xyz/yzx",
+    "path": "xyz/yzx/kjija",
     "request": {
         "queryParams": [
             {
                 "name": "page",
-                "value": "20",
+                "value": "40",
                 "type": "text"
             },
             {
                 "name": "size",
                 "type": "text",
-                "value": "25"
+                "value": "22"
             }
         ],
         "auth": {
             "authType": "Bearer Token",
-            "bearerToken": "adsafsdaf"
+            "bearerToken": "adsafsdafasdsafd123"
         },
         "headers": [
             {
                 "name": "Authorization",
-                "value": "Bearer token",
+                "value": "Bearer sdfdf",
                 "type": "text"
             },
             {
                 "name": "Cookie",
                 "type": "text",
-                "value": "devassure_session=asjdhbjafbadbfjdf"
+                "value": "devassure_session=asjdhbjafbadbfjdfwwqwe12"
             }
         ],
         "body": {
-            "data": "{\n\"name\": \"name\",\n\"email\": \"email\"\n}",
+            "data": "{\n\"name\": \"name\",\n\"email\": \"email\",\n\"asdad\": \"asdnajf\"\n}",
             "type": "json"
         }
     }
