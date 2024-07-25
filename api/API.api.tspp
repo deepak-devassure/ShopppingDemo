@@ -1,4 +1,4 @@
->>summary: summary from local
+>>summary: summary from local234
 
 
 
@@ -22,7 +22,7 @@
 }
 ^^
 
-^^get_params(url:text, text:url)
+^^get_p(url:text, text:url)
 {
     "method": "POST",
     "baseUrl": "::urls.SITE_URL",
@@ -41,8 +41,8 @@
             }
         ],
         "auth": {
-            "authType": "Bearer Token",
-            "bearerToken": "asfjbajsdf"
+            "authType": "Saved Auth",
+            "file": "bearer.auth.tspp"
         },
         "headers": [
             {
@@ -57,8 +57,19 @@
             }
         ],
         "body": {
-            "data": "{\n\"name\": \"name\",\n\"email\": \"email\",\n\"asdad\": \"asdnajf\"\n}",
-            "type": "json"
+            "data": [
+                {
+                    "name": "wef",
+                    "type": "text",
+                    "value": "qerer"
+                },
+                {
+                    "name": "awd",
+                    "type": "text",
+                    "value": "qwdqwed"
+                }
+            ],
+            "type": "form"
         }
     }
 }
