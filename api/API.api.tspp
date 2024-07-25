@@ -22,9 +22,9 @@
 
 ^^get_par(url: text, text: url)
 {
-    "method": "GET",
+    "method": "POST",
     "baseUrl": "::urls.SITE_URL",
-    "path": "xyz/yzx",
+    "path": "xyz/yzx/asd",
     "request": {
         "queryParams": [
             {
