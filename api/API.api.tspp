@@ -67,6 +67,11 @@
                     "name": "awd",
                     "type": "text",
                     "value": "qwdqwed"
+                },
+                {
+                    "name": "erqr",
+                    "type": "text",
+                    "value": "qwewqe"
                 }
             ],
             "type": "form"
