@@ -57,7 +57,6 @@
         "body": {
             "data": "{\n\"name\": \"name\",\n\"email\": \"email\"\n}",
             "type": "json",
-            "asdk": "askdnsakd"
         }
     }
 }
