@@ -1,4 +1,4 @@
->>summary: summary from local234
+e>>summary: summary from remote
 
 
 
@@ -47,13 +47,13 @@
         "headers": [
             {
                 "name": "Authorization",
-                "value": "Bearer sdfdf",
+                "value": "Bearer remote",
                 "type": "text"
             },
             {
                 "name": "Cookie1",
                 "type": "text",
-                "value": "devassure_session=asjdhbjafbadbf"
+                "value": "devassure_session=asjdhbjafbadbfadsarfw232"
             }
         ],
         "body": {
