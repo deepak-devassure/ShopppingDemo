@@ -7,9 +7,9 @@
     ],
     "additionalTests": [],
     "priority": [
-        "P4",
-        "P2"
-    ],
+"P2",
+        "P4"
+],
     "testType": "web",
     "features": [
         "WebOnboarding",
