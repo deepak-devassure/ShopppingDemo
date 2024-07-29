@@ -24,6 +24,11 @@
                 "name": "password",
                 "type": "text",
                 "value": "pass"
+            },
+            {
+                "name": "new_var",
+                "type": "text",
+                "value": "newVar"
             }
         ]
     },
