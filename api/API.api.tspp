@@ -48,7 +48,7 @@
         "headers": [
             {
                 "name": "Authorization",
-                "value": "Bearer local",
+                "value": "Bearer remote",
                 "type": "text"
             },
             {

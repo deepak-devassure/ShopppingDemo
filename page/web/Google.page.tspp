@@ -1,7 +1,7 @@
 >>summary: Summary from remote
 
 ==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
-==Staysignedout;XPATH;[data-dismiss='n'];Button;[XPATH://button^^CSS:button];[Staysignedout];[Google];==
+==Staysignedout;id;[data-dismiss='n'];Button;[XPATH://button^^CSS:button];[Staysignedout];[Google];==
 ==Google;CSS;[data-atf='1'];;[CSS:div:nth-child(2) > div > img^^CSS:.lnXdpd];[Google];[Google];==
 ==Saveyourpasswordssecurelywithy;XPATH;//span;;[CSS:span];[Saveyourpasswordssecurelywithy];[Google];==
 ==formdivdivdivnthchild3div;CSS;form > div > div > div:nth-child(3) > div;;[CSS:.SDkEP];[formdivdivdivnthchild3div];[Google];==
@@ -18,13 +18,13 @@
 ==Search_3;CSS;[title='Search'];;[CSS:[name='q']^^CSS:[aria-label='Search']^^CSS:.gLFyf^^CSS:textarea:nth-child(3)];[Search];[Google];==
 
 
-^^OpenSearch123(url1:url) -> element
+^^OpenSearch123(url3:url) -> element
 	--Switch to iframe-- {{callout_2}} 
 	--Click on-- {{Staysignedout_2}} 
 	--Switch to parent frame-- 
 	--Click on-- {{Search}} 
 	--Click on-- {{SignintoGoogle}}(( label: Dismiss )) 
-	--Open URL-- ::url1:: 
+	--Open URL-- [[url3]] **Step has invalid parameters that will be removed on save: {{url}}** 
 	--return-- {{Staysignedout}} 
 
 ^^

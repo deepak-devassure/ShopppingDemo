@@ -1,9 +1,9 @@
->>summary: Summary from local
+>>summary: Summary from remote123
 
 
 
 ^^Common::dfs()
-	--Wait for-- [[200]] --milliseconds-- 
+	::apiResponse_1 = --Call API-- {{Api > xzxj}} 
 	--Verify status code of http response-- ::apiResponse_1:: > [[500]] 
 
 ^^
