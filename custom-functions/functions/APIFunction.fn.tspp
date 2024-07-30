@@ -1,9 +1,9 @@
->>summary: Summary from remote
+>>summary: Summary from local
 
 
 
 ^^Common::dfs()
-	::apiResponse_1 = --Call API-- {{}} **API fn "API > FirstAPI" not found!** 
-	--Verify status code of http response-- ::apiResponse_1:: > [[200]] 
+	--Wait for-- [[200]] --milliseconds-- 
+	--Verify status code of http response-- ::apiResponse_1:: > [[500]] 
 
 ^^

@@ -1,18 +1,13 @@
 {
     "tags": [
         [
-            "dfg",
-            "asdsdfds"
+            "apply_promo"
         ]
     ],
     "additionalTests": [],
-    "priority": [
-"P2",
-        "P4"
-],
+    "priority": [],
     "testType": "web",
     "features": [
-        "WebOnboarding",
-        "ShoppingHome"
+        "ImageTest"
     ]
 }

@@ -1,7 +1,11 @@
 >>testDataType: undefined
 >>summary: Verify that user can apply a promotion code on the cart
->>tags: 
+>>tags: apply_promo
 >>feature: ImageTest
+>>ticketUrl: 
+>>importSource: 
+>>priority: 4
+>>aiRequestId: 
 
 
 ^^detailed_steps

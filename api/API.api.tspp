@@ -1,4 +1,4 @@
->>summary: summary from local234
+>>summary: summary from local
 
 
 
@@ -41,24 +41,36 @@
             }
         ],
         "auth": {
-            "authType": "Saved Auth",
-            "file": "bearer.auth.tspp"
+            "authType": "Basic Auth",
+            "userName": "asdaf",
+            "password": "asdasfdr"
         },
         "headers": [
             {
                 "name": "Authorization",
-                "value": "Bearer sdfdf",
+                "value": "Bearer local",
                 "type": "text"
             },
             {
                 "name": "Cookie1",
                 "type": "text",
-                "value": "devassure_session=asjdhbjafbadbf"
+                "value": "devassure_session=asjdhbjafbadbfasd23"
             }
         ],
         "body": {
-            "data": "{\n\"type\": \"json\"\n}",
-            "type": "json"
+            "data": [
+                {
+                    "name": "type",
+                    "type": "text",
+                    "value": "form"
+                },
+                {
+                    "name": "bodyType",
+                    "type": "text",
+                    "value": "form"
+                }
+            ],
+            "type": "form"
         }
     }
 }
