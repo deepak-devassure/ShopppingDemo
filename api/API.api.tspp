@@ -16,7 +16,8 @@
             }
         ],
         "body": {
-            "type": "json"
+            "type": "json",
+            "data": "jsonContent"
         }
     }
 }
