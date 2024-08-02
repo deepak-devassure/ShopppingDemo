@@ -28,9 +28,7 @@
         },
         "auth": {
             "authType": "BEARER_TOKEN",
-            "authData": {
-                "bearerToken": "bearer token"
-            }
+            "bearerToken": "bearer token"
         }
     }
 }
