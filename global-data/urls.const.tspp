@@ -20,7 +20,7 @@
             {
                 "name": "SITE_URL",
                 "type": "url",
-                "value": "https://app.devassure.io"
+                "value": "https://beta.devassure.io"
             }
         ],
         "isDefault": false
