@@ -1,4 +1,4 @@
->>summary: summary from local
+>>summary: summary from local1
 
 
 
@@ -11,13 +11,30 @@
         "queryParams": [
             {
                 "name": "name",
-                "value": "",
+                "value": "123",
                 "type": "text"
             }
         ],
         "body": {
-            "type": "json",
-            "data": "jsonContent"
+            "data": "{\n  \"type\": \"body\"\n}",
+            "type": "text"
+        },
+        "headers": [
+            {
+                "name": "header1",
+                "value": "::arg4::",
+                "type": "text"
+            },
+            {
+                "name": "header2",
+                "type": "text",
+                "value": "::arg3::"
+            }
+        ],
+        "auth": {
+            "authType": "Basic Auth",
+            "userName": "::arg3",
+            "password": "::arg4"
         }
     }
 }
@@ -89,7 +106,11 @@
                 "value": "asd",
                 "type": "text"
             }
-        ]
+        ],
+        "body": {
+            "data": "json",
+            "type": "json"
+        }
     }
 }
 ^^
