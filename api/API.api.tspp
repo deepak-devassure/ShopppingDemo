@@ -1,4 +1,4 @@
->>summary: summary from local
+>>summary: summary from remote
 
 
 
@@ -11,13 +11,24 @@
         "queryParams": [
             {
                 "name": "name",
-                "value": "",
+                "value": "321",
+                "type": "text"
+            }
+        ],
+        "headers": [
+            {
+                "name": "header321",
+                "value": "222",
                 "type": "text"
             }
         ],
         "body": {
             "type": "json",
-            "data": "jsonContent"
+            "data": "{"type": "west"}"
+        },
+        "auth": {
+            "authType": "BEARER_TOKEN",
+            "bearerToken": "bearer token"
         }
     }
 }
