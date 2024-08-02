@@ -27,7 +27,7 @@
             "data": "{\"type\": \"west\"}"
         },
         "auth": {
-            "authType": "BEARER_TOKEN",
+            "authType": "Bearer Token",
             "bearerToken": "bearer token"
         }
     }
