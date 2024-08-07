@@ -21,6 +21,51 @@
             "data": {
                 "numTestCases": 1
             }
+        },
+        {
+            "timestamp": "2024-08-05T08:13:37.352Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "deepak"
+            },
+            "data": {
+                "generationId": "5ec7d7fe-2d19-4138-915f-631d190d3509",
+                "status": "error",
+                "requestId": "992002db-d72c-4d3d-a6bc-2fd17874f4b9",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-08-05T08:13:41.354Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "deepak"
+            },
+            "data": {
+                "generationId": "4c894932-f495-4212-8ac2-55b69d9fabcd",
+                "status": "error",
+                "requestId": "2105a8f2-8b28-46e3-925c-d79650cb65ab",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-08-05T08:13:46.327Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "deepak"
+            },
+            "data": {
+                "generationId": "f4d1b7f1-3d16-457b-96bd-26c05865b5c2",
+                "status": "error",
+                "requestId": "15e546e5-4976-4787-8b7f-63e878369de4",
+                "message": "Some error occured"
+            }
         }
     ]
 }

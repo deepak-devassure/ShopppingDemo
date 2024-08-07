@@ -53,14 +53,19 @@
             "data": {}
         },
         {
-            "timestamp": "2024-08-02T08:34:06.779Z",
-            "action": "UPDATED_FEATURE_SPEC",
-            "user": {
+"timestamp": "2024-08-02T13:10:50.443Z",
+            "action": "GENERATE_TEST_CASE",
+"user": {
                 "id": 1,
                 "email": "deepak@gmail.com",
-                "name": "Deepak V"
-            },
-            "data": {}
-        }
+"name": "deepak"
+},
+"data": {
+                "generationId": "c2146a77-d444-4fef-ac8c-f03d6bf4e3e8",
+                "status": "error",
+                "requestId": "dc0b8eec-7cad-4a8e-bc5b-3edab8b7be80",
+                "message": "Some error occured"
+            }
+}
     ]
 }
