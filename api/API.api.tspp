@@ -61,19 +61,19 @@
         ],
         "auth": {
             "authType": "Basic Auth",
-            "userName": "asdaf",
-            "password": "asdasfdr"
+            "userName": "usrnamefrom remote",
+            "password": "passwprdfromremote"
         },
         "headers": [
             {
                 "name": "Authorization",
-                "value": "Bearer remote",
+                "value": "Bearer 123",
                 "type": "text"
             },
             {
                 "name": "Cookie1",
                 "type": "text",
-                "value": "devassure_session=asjdhbjafbadbfasd23"
+                "value": "devassure_session=asjdhbjafbadbfasd23wfsdfsdf"
             }
         ],
         "body": {
@@ -94,7 +94,7 @@
     }
 }
 ^^
-
+#comment from remote
 ^^xzxj()
 {
     "method": "GET",
@@ -104,7 +104,7 @@
         "queryParams": [
             {
                 "name": "asd",
-                "value": "asd",
+                "value": "sfdf",
                 "type": "text"
             }
         ],
