@@ -24,6 +24,16 @@
                 "requestId": "66293677-6604-40f8-a7e3-9a32944ea50e",
                 "message": "Some error occured"
             }
+        },
+        {
+            "timestamp": "2024-08-11T08:15:42.286Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak V"
+            },
+            "data": {}
         }
     ]
 }

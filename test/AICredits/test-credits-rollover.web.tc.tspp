@@ -1,19 +1,19 @@
 >>testDataType: NONE
->>summary: Verify credits rollover to the next cycle
->>tags: 
+>>summary: Verify credits rollover to the next cycle local
+>>tags: dfe, zxy
 >>feature: UserShopping
 >>ticketUrl: 
 >>importSource: 
->>priority: 3
+>>priority: 2
 >>aiRequestId: 
 
 
 ^^detailed_steps
-Navigate to 'AI Credits' section --> Verify the current cycle's remaining credits
+Navigate to 'AI Credits' section --> Verify the current cycle's remaining credits local
 Wait for the billing cycle to end --> Verify that the remaining credits from the previous cycle are added to the new cycle
 ^^
 
---Open URL-- ::urls.SITE_URL:: 
+--Open URL-- [[https://google.com]] 
 --Go back-- 
 --Wait for URL-- ::secrets.test1.pass:: 
 

@@ -1,7 +1,6 @@
->>summary: 
->>recorderName: EverShop
+>>summary: summary fro local
 
-==Men;XPATH;//a[text()="Men"];Link;[CSS:.nav-item:nth-child(3) > .nav-link];[Men];[EverShop];==
+==Men;XPATH;//a[text()="Men"];Link;[CSS:.nav-item:nth-child(3) > .nav-link^^XPATH:ertey];[Men];[EverShop];==
 ==listingtemnthchild2productthum;CSS;.listing-tem:nth-child(2) > .product-thumbnail-listing;;[];[listingtemnthchild2productthum];[EverShop];==
 ==listingtemnthchild2pathnthchil;CSS;.listing-tem:nth-child(2) path:nth-child(1);;[];[listingtemnthchild2pathnthchil];[EverShop];==
 ==ADDTOCART_2;XPATH;//button;Button;[CSS:.button^^CSS:.primary^^CSS:.outline];[ADDTOCART];[DenimSkinnyJeans];==
@@ -24,7 +23,8 @@
 
 ^^
 
-^^one(label:text)
+#xmment from local
+^^one(label:element)
 	--Switch to parent frame-- 
 	--Visually compare page to snapshot with label-- ::label:: 
 
