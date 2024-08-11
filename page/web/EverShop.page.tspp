@@ -24,7 +24,6 @@
 
 ^^
 
-#Summary from remote
 ^^one(label:url)
 	--Switch to parent frame-- 
 	--Visually compare page to snapshot with label-- ::label:: 
