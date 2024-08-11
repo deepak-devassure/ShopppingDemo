@@ -26,8 +26,6 @@
 
 #comment from locl
 ^^one(label:element)
-^^one(label:url)
->>>>>>> 03dd9481d7dd084c77d911981204f494759688f1
 	--Switch to parent frame-- 
 	--Visually compare page to snapshot with label-- ::label:: 
 
