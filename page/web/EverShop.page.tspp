@@ -1,4 +1,4 @@
->>summary: 
+>>summary: summary from remote
 >>recorderName: EverShop
 
 ==Men;XPATH;//a[text()="Men"];Link;[CSS:.nav-item:nth-child(3) > .nav-link];[Men];[EverShop];==
@@ -24,7 +24,8 @@
 
 ^^
 
-^^one(label:text)
+#Summary from remote
+^^one(label:url)
 	--Switch to parent frame-- 
 	--Visually compare page to snapshot with label-- ::label:: 
 
