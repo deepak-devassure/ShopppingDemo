@@ -1,4 +1,5 @@
->>summary: summary fro local
+>>summary: summary from remote
+>>recorderName: EverShop
 
 ==Men;XPATH;//a[text()="Men"];Link;[CSS:.nav-item:nth-child(3) > .nav-link^^XPATH:ertey];[Men];[EverShop];==
 ==listingtemnthchild2productthum;CSS;.listing-tem:nth-child(2) > .product-thumbnail-listing;;[];[listingtemnthchild2productthum];[EverShop];==
@@ -23,8 +24,10 @@
 
 ^^
 
-#xmment from local
+#comment from locl
 ^^one(label:element)
+^^one(label:url)
+>>>>>>> 03dd9481d7dd084c77d911981204f494759688f1
 	--Switch to parent frame-- 
 	--Visually compare page to snapshot with label-- ::label:: 
 

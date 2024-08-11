@@ -1,15 +1,16 @@
 >>testDataType: NONE
 >>summary: Verify credits rollover to the next cycle local
->>tags: dfe, zxy
+>>tags: xyz, abc
 >>feature: UserShopping
 >>ticketUrl: 
 >>importSource: 
->>priority: 2
+>>priority: 4
 >>aiRequestId: 
 
 
 ^^detailed_steps
 Navigate to 'AI Credits' section --> Verify the current cycle's remaining credits local
+Navigate to 'AI Credits' section --> Verify the current cycle's remaining credits remote
 Wait for the billing cycle to end --> Verify that the remaining credits from the previous cycle are added to the new cycle
 ^^
 

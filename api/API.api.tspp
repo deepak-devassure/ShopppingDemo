@@ -62,8 +62,8 @@
         ],
         "auth": {
             "authType": "Basic Auth",
-            "userName": "usernamefromlocal",
-            "password": "passwordfrmlocal"
+            "userName": "usrnamefrom remote",
+            "password": "passwprdfromremote"
         },
         "headers": [
             {
@@ -74,7 +74,7 @@
             {
                 "name": "Cookie1",
                 "type": "text",
-                "value": "devassure_session=asjdhbjafbadbfasd23sdfsdgfdsg"
+                "value": "devassure_session=asjdhbjafbadbfasd23wfsdfsdf"
             }
         ],
         "body": {
@@ -96,6 +96,7 @@
 }
 ^^
 
+#comment from remote
 ^^xzxj()
 {
     "method": "GET",
