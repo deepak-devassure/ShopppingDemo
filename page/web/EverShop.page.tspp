@@ -17,13 +17,6 @@
 
 ^^
 
-^^Demo33()
-	--Click on-- {{Men}} 
-	__web > Men > Fn77__ 
-	__ClickAddToCart__ 
-
-^^
-
 #comment from locl
 ^^one(label:element)
 	--Switch to parent frame-- 
