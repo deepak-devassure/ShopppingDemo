@@ -1,10 +1,10 @@
 >>testDataType: TABLE
 >>summary: Check Admin can see all users listed on Users page
->>tags: 
+>>tags: sdf, dxg, dfg, xfg
 >>feature: UserPage
 >>ticketUrl: 
 >>importSource: 
->>priority: 
+>>priority: 1
 >>aiRequestId: 
 
 

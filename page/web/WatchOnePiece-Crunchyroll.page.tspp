@@ -1,0 +1,11 @@
+>>summary: 
+>>recorderName: WatchOnePiece-Crunchyroll
+
+==dM1341412l52935293a99999901014;CSS;[d='M13\.414\ 12l5\.293-5\.293a\.999\.999\ 0\ 1\ 0-1\.414-1\.414L12\ 10\.586\ 6\.707\ 5\.293a\.999\.999\ 0\ 1\ 0-1\.414\ 1\.414L10\.586\ 12l-5\.293\ 5\.293a\.999\.999\ 0\ 0\ 0\ 0\ 1\.414\.993\.993\ 0\ 0\ 0\ 1\.414\ 0L12\ 13\.414l5\.293\ 5\.293a\.999\.999\ 0\ 1\ 0\ 1\.414-1\.414L13\.414\ 12z'];;[CSS:div:nth-child(1) > div > svg:nth-child(2) > path];[dM1341412l52935293a99999901014];[WatchOnePiece-Crunchyroll];==
+==BlackClover;CSS;[title='Black Clover'];Link;[CSS:[title='Black\ Clover']^^CSS:div:nth-child(4) a:nth-child(2)];[BlackClover];[WatchOnePiece-Crunchyroll];==
+
+
+^^watchOP()
+	--Click on-- {{dM1341412l52935293a99999901014}} 
+
+^^

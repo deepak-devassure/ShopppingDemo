@@ -1,0 +1,388 @@
+>>testDataType: undefined
+>>summary: this is the summary dfdfdf sjdfb
+>>tags: asdf, xyz, abc, new_tag
+>>feature: UserShopping
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 
+
+
+--Open URL-- [[https://www.facebook.com/]] 
+>{
+const randomNumber = Math.random();
+if (randomNumber > 0.5) console.log("More than 0.5");
+else console.log("Less than 0.5");
+}<
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+>{
+const randomNumber = Math.random();
+if (randomNumber > 0.5) console.log("More than 0.5");
+else console.log("Less than 0.5");
+}<
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Open URL-- [[https://www.facebook.com/]] 
+>{
+const randomNumber = Math.random();
+if (randomNumber > 0.5) console.log("More than 0.5");
+else console.log("Less than 0.5");
+}<
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Open URL-- [[https://www.facebook.com/]] 
+>{
+const randomNumber = Math.random();
+if (randomNumber > 0.5) console.log("More than 0.5");
+else console.log("Less than 0.5");
+}<
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande}} 
+--Input value-- [[whatever@gmail.com]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > Classicanimejamsepicmoviesande_2}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > NEXT}} 
+--Click on-- {{x-facebook > password}} 
+--Input value-- [[Whatever@123]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > LOGIN}} 
+--Click on-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > flashmessage__dismissUKoL}} 
+--Open URL-- [[https://www.facebook.com/]] 
+--Click on-- {{web > Facebook_loginorsignup > Createnewaccount}} 
+--Click on-- {{web > Facebook_loginorsignup > firstname}} 
+__web > Facebook_loginorsignup > some_function__ [[whatever]] [[surname]] [[9876543210]] 
+--Press keyboard keys-- [[Tab]] --on-- {{web > Facebook_loginorsignup > reg_email__}} 
+--Input value-- [[newPassword]] --in-- {{web > Facebook_loginorsignup > reg_passwd__}} 
+--Click on-- {{web > Facebook_loginorsignup > Female}} 
+--Input value-- [[1]] --in-- {{web > Facebook_loginorsignup > spannthchild1input}} 
+--Click on-- {{web > Facebook_loginorsignup > websubmit}} 
+--Click on-- {{web > X_It_swhat_shappening_X > divnthchild1button}} 
+__web > X_It_swhat_shappening_X > emailSignIn__ [[whatever@gmai.com]] 
+--Input value-- [[whatever@ymail.com]] --in-- {{x-facebook > password}} 
+--Click on-- {{web > LogintoX_X > Login}} 
+__web > Crunchyroll_WatchPopularAnime_PlayGames_ShopOnline > crunchy__ [[https://www.crunchyroll.com/]] 
+--Input value-- [[9283947834]] --in-- {{web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > login}} 
+

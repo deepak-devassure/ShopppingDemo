@@ -20,10 +20,12 @@
                     "viewProfiles": [
                         {
                             "device": "Pixel 5"
-                        }
+                        },
+                        {}
                     ]
                 }
             ]
         }
-    ]
+    ],
+    "retryCount": 0
 }

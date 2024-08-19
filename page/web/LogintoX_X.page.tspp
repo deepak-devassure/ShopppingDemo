@@ -1,0 +1,17 @@
+>>summary: 
+>>recorderName: LogintoX/X
+
+==Sign_In__Google_Accounts;CSS;div.r-184id4b iframe;;[CSS:div:nth-child(2) > div > iframe];[Sign_In__Google_Accounts];[LogintoX/X];==
+==text;CSS;[name='text'];Input;[CSS:[type='text']^^CSS:input^^CSS:.r-30o5oe^^CSS:.r-homxoj];[text];[LogintoX/X];==
+==SignintoXSigninwithAppleorPhon;CSS;.r-nllxps;;[CSS:div:nth-child(2) > div > div > div:nth-child(2) > div:nth-child(2) > div > div > div];[SignintoXSigninwithAppleorPhon];[LogintoX/X];==
+==Next;XPATH;//span[text()="Next"];;[CSS:button:nth-child(6) > div > span];[Next];[LogintoX/X];==
+==Login;XPATH;//span[text()="Log in"];;[CSS:span.r-1inkyih .css-1jxf684^^CSS:button:nth-child(1) > div > span > span];[Login];[LogintoX/X];==
+
+
+^^xLogin(signInEmail:text)
+	--Click on-- {{text}} 
+	--Input value-- ::signInEmail:: --in-- {{text}} 
+	--Click on-- {{SignintoXSigninwithAppleorPhon}} 
+	--Click on-- {{Next}} 
+
+^^

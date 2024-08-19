@@ -16,6 +16,7 @@
 ==Staysignedout_2;CSS;[aria-label='Stay signed out'];Button;[CSS:button^^XPATH://button[text()="Stay signed out"]^^CSS:.rr4y5c];[Staysignedout];[Google];==
 ==Google_2;CSS;[alt='Google'];;[CSS:.lnXdpd^^CSS:div:nth-child(2) > div > img];[Google];[Google];==
 ==Search_3;CSS;[title='Search'];;[CSS:[name='q']^^CSS:[aria-label='Search']^^CSS:.gLFyf^^CSS:textarea:nth-child(3)];[Search];[Google];==
+==WatchHouseofGemini;XPATH;//a[text()="Watch House of Gemini"];Link;[CSS:[href='https\:\/\/www\.google\.com\/url\?q\=https\:\/\/www\.youtube\.com\/watch\%3Fv\%3Dn1jTjTgV3gk\%26utm_source\%3Dyoutube\%26utm_medium\%3Dhpp\%26utm_campaign\%3Dhouse_of_gemini\&source\=hpp\&id\=19043221\&ct\=3\&usg\=AOvVaw2FP_HTCqwVZ7ZMqMAA8yrM\&sa\=X\&ved\=0ahUKEwjox9bVvPGHAxUUh68BHSokHcQQ8IcBCBc']^^CSS:div:nth-child(4) > div:nth-child(3) a];[WatchHouseofGemini];[];==
 
 
 ^^OpenSearch123(url3:url) -> element
@@ -24,7 +25,7 @@
 	--Switch to parent frame-- 
 	--Click on-- {{Search}} 
 	--Click on-- {{SignintoGoogle}}(( label: Dismiss )) 
-	--Open URL-- [[url3]] **Step has invalid parameters that will be removed on save: {{url}}** 
+	--Open URL-- ::url3:: 
 	--return-- {{Staysignedout}} 
 
 ^^
@@ -41,6 +42,7 @@ const url = `https://${prefix}.${domain}`
 	::url = --Get page URL-- 
 >{
 const parts = url.split('\/');
+console.log(parts);
 }<
 	--Open URL-- ::url:: 
 

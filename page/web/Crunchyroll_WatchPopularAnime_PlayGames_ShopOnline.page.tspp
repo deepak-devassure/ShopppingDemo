@@ -1,0 +1,19 @@
+>>summary: 
+>>recorderName: Crunchyroll
+
+==frame_20;CSS;[title='onetrust-text-resize'];;[CSS:.ot-text-resize^^CSS:iframe:nth-child(2)];[frame_20];[Crunchyroll:WatchPopularAnime,PlayGames&ShopOnline];==
+==divnthchild10divnthchild4anthc;CSS;div:nth-child(10) div:nth-child(4) a:nth-child(2);Link;[];[divnthchild10divnthchild4anthc];[Crunchyroll:WatchPopularAnime,PlayGames&ShopOnline];==
+==RejectAll;CSS;div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > button:nth-child(1);Button;[];[RejectAll];[Crunchyroll];==
+==divnthchild1divnthchild1divnth;CSS;div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > svg;;[];[divnthchild1divnthchild1divnth];[Crunchyroll];==
+==LogIn;XPATH;//h5[text()="Log In"];;[CSS:[data-t='signin-link'] .text--is-fixed-size--5i4oU^^CSS:a:nth-child(2) h5];[LogIn];[Crunchyroll];==
+
+
+^^crunchy(crunchyUrl:url)
+	--Open URL-- ::crunchyUrl:: 
+	--Click on-- {{RejectAll}} 
+	__web > WatchOnePiece-Crunchyroll > watchOP__ 
+	--Click on-- {{divnthchild1divnthchild1divnth}} 
+	--Click on-- {{LogIn}} 
+	__web > CrunchyrollLogin_StreamAnimeOnlinewithYourAccount > streamAnime__ 
+
+^^

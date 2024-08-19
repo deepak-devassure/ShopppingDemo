@@ -1,0 +1,22 @@
+>>summary: 
+>>recorderName: Facebook–loginorsignup
+
+==Createnewaccount;XPATH;//a[text()="Create new account"];Button;[CSS:._6lti^^CSS:div:nth-child(9) > a];[Createnewaccount];[Facebook–loginorsignup];==
+==captcharecaptcha;CSS;iframe;;[CSS:._3-8x];[captcharecaptcha];[Facebook–loginorsignup];==
+==firstname;CSS;[name='firstname'];Input;[CSS:[aria-label='First name']^^CSS:div:nth-child(1) > div:nth-child(1) > input:nth-child(1)];[firstname];[Facebook–loginorsignup];==
+==lastname;CSS;[name='lastname'];Input;[CSS:[aria-label='Surname']^^CSS:div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > input];[lastname];[Facebook–loginorsignup];==
+==reg_email__;CSS;[name='reg_email__'];Input;[CSS:[aria-label='Mobile number or email address']^^CSS:div:nth-child(3) > div:nth-child(2) > div > div > input];[reg_email__];[Facebook–loginorsignup];==
+==reg_passwd__;CSS;[name='reg_passwd__'];Input;[CSS:[aria-label='New password']^^CSS:div:nth-child(4) input];[reg_passwd__];[Facebook–loginorsignup];==
+==Female;XPATH;//label[text()="Female"];;[CSS:[for='u_4_4_vS']^^CSS:span:nth-child(1) > label];[Female];[Facebook–loginorsignup];==
+==spannthchild1input;CSS;span:nth-child(1) > input;;[];[spannthchild1input];[Facebook–loginorsignup];==
+==websubmit;CSS;[name='websubmit'];Button;[CSS:div:nth-child(11) > button];[websubmit];[Facebook–loginorsignup];==
+
+
+^^some_function(firstname:text, lastname:text, regemail:text)
+	--Input value-- ::firstname:: --in-- {{firstname}} 
+	--Press keyboard keys-- [[Tab]] --on-- {{firstname}} 
+	--Input value-- ::lastname:: --in-- {{lastname}} 
+	--Press keyboard keys-- [[Tab]] --on-- {{lastname}} 
+	--Input value-- ::regemail:: --in-- {{reg_email__}} 
+
+^^

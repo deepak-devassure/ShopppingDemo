@@ -1,0 +1,13 @@
+>>summary: 
+>>recorderName: X.It’swhat’shappening/X
+
+==Sign_In__Google_Accounts;CSS;[title='Sign in with Google Button'];;[CSS:iframe];[Sign_In__Google_Accounts];[X.It’swhat’shappening/X];==
+==divnthchild1button;CSS;div:nth-child(1) > button;Button;[];[divnthchild1button];[X.It’swhat’shappening/X];==
+==Signin;XPATH;//span[text()="Sign in"];;[CSS:[href='\/login'] .r-dnmrzs .css-1jxf684^^CSS:a:nth-child(2) span > span];[Signin];[X.It’swhat’shappening/X];==
+
+
+^^emailSignIn(signInEmail:text)
+	--Click on-- {{Signin}} 
+	__web > LogintoX_X > xLogin__ ::signInEmail:: 
+
+^^

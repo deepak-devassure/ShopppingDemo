@@ -1,0 +1,17 @@
+>>summary: 
+>>recorderName: CrunchyrollLogin
+
+==frame_16;CSS;iframe[style];;[CSS:iframe:nth-child(2)];[frame_16];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==reCAPTCHA;CSS;[title='reCAPTCHA'];;[CSS:[title]^^CSS:[name='a-9omo9p9amc33']^^CSS:iframe:nth-child(1)];[reCAPTCHA];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==login;CSS;[name='login'];Input;[CSS:[type='text']^^CSS:input^^CSS:.input--mOn64];[login];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==Classicanimejamsepicmoviesande;CSS;.cx-auth-form__card;;[CSS:form > div:nth-child(1)^^CSS:.cx-login__card];[Classicanimejamsepicmoviesande];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==Classicanimejamsepicmoviesande_2;CSS;form;;[CSS:.Form_form__r4ykg];[Classicanimejamsepicmoviesande];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==NEXT;CSS;.button__cta--LOqDH;;[CSS:button > span];[NEXT];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==LOGIN;CSS;.button--is-type-one--3uIzT .call-to-action--PEidl;;[CSS:button:nth-child(1) > span];[LOGIN];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+==flashmessage__dismissUKoL;CSS;.flash-message__dismiss---UKoL;Button;[CSS:div:nth-child(1) > button];[flashmessage__dismissUKoL];[CrunchyrollLogin:StreamAnimeOnlinewithYourAccount];==
+
+
+^^streamAnime()
+	--Click on-- {{login}} 
+
+^^
