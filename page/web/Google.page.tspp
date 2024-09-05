@@ -61,3 +61,10 @@ const parts = url.split('\/');
 	--Open URL-- ::nUrl:: 
 
 ^^
+
+^^newFun()
+	--Open URL-- ::urls.SITE_URL:: 
+	--Reload page-- 
+
+^^
+
