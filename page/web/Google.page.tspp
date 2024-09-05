@@ -56,4 +56,12 @@ const parts = url.split('\/');
 	--Open URL-- ::newUrl:: 
 
 ^^
+
+^^getUrl(prefix:text, domain:text) -> url
+>{
+const url = `https://${prefix}.${domain}`
+}<
+	--return-- [[${url}]] 
+
+^^
 	
