@@ -41,6 +41,7 @@ const url = `https://${prefix}.${domain}`
 	::url = --Get page URL-- 
 >{
 const parts = url.split('\/');
+const newFormula = "x + y";
 }<
 	--Open URL-- ::url:: 
 
@@ -59,5 +60,10 @@ const parts = url.split('\/');
 
 ^^newNewNew(nUrl:url)
 	--Open URL-- ::nUrl:: 
+
+^^
+
+^^nNNNN(arg1:text)
+	--Reload page-- 
 
 ^^
