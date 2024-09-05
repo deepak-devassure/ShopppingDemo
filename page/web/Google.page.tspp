@@ -56,4 +56,8 @@ const parts = url.split('\/');
 	--Open URL-- ::newUrl:: 
 
 ^^
-	
+
+^^newNewNew(nUrl:url)
+	--Open URL-- ::nUrl:: 
+
+^^
