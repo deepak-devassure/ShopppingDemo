@@ -1,4 +1,3 @@
-
 >>summary: Summary from remote
 
 ==SignintoGoogle;XPATH;//div[text()="${label}"];;[CSS:div > div:nth-child(2) > div > div^^CSS:.hXhhq];[SignintoGoogle];[Google];==
@@ -57,3 +56,4 @@ const parts = url.split('\/');
 	--Open URL-- ::newUrl:: 
 
 ^^
+	
