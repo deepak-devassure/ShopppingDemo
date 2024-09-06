@@ -72,3 +72,13 @@ const newFormula = "x + y";
 	--Reload page-- 
 
 ^^
+
+^^validateId24(arg2:text, url:url)
+	::url = --Get page URL-- 
+>{
+const parts = url.split('\/');
+const newFormula = "x + y";
+}<
+	--Open URL-- ::url:: 
+
+^^
