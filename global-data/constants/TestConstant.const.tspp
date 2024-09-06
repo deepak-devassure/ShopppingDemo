@@ -34,7 +34,8 @@
     },
     {
         "environments": [
-            "UAT"
+            "UAT",
+            "DevBox"
         ],
         "constants": [
             {
@@ -54,8 +55,8 @@
             },
             {
                 "name": "test",
-                "type": "text",
-                "value": ""
+                "type": "number",
+                "value": 28323
             }
         ],
         "isDefault": false
