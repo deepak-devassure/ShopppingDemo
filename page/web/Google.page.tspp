@@ -20,9 +20,9 @@
 
 ^^OpenSearch123(url3:url) -> element
 	--Switch to iframe-- {{callout_2}} 
-	--Click on-- {{Staysignedout_2}} 
-	--Switch to parent frame-- 
 	--Click on-- {{Search}} 
+	--Switch to parent frame-- 
+	--Click on-- {{SignintoGoogle}} 
 	--Click on-- {{SignintoGoogle}}(( label: Dismiss )) 
 	--Open URL-- [[url3]] **Step has invalid parameters that will be removed on save: {{url}}** 
 	--return-- {{Staysignedout}} 
