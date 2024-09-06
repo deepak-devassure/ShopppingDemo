@@ -28,14 +28,14 @@
             {
                 "name": "new_var",
                 "type": "text",
-                "value": "newVar"
+                "value": "njhsfj"
             }
         ]
     },
     {
         "environments": [
             "UAT",
-            "DevBox"
+            "Production"
         ],
         "constants": [
             {
@@ -55,8 +55,8 @@
             },
             {
                 "name": "test",
-                "type": "number",
-                "value": 28323
+                "type": "url",
+                "value": "https://github.com"
             }
         ],
         "isDefault": false
