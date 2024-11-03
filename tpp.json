@@ -1,6 +1,6 @@
 {
     "name": "ShoppingDemo",
-    "id": "com.da.shoppingdemo2",
+    "id": "com.da.shoppingdemo",
     "automationTypes": [
         "web"
     ],
