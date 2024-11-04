@@ -1,2 +1,33 @@
 >>testTypes: web, api, mobile
 >>forAllTests: true
+
+^^beforeAll()
+	__Common::APIFunction > dfs__ 
+	#dummy 
+
+^^
+
+
+
+^^beforeEach()
+>{
+let a = 123;
+}<
+
+^^
+
+
+
+^^afterEach()
+	--Wait for-- [[200]] --milliseconds-- 
+
+^^
+
+
+
+^^afterAll()
+>{
+let b = "New one"
+}<
+
+^^
