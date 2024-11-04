@@ -1,1 +1,2 @@
->>type: hooks
+>>testTypes: web, api, mobile
+>>forAllTests: true
