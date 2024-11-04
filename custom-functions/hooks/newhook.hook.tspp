@@ -1,9 +1,9 @@
->>testTypes: web, api, mobile
+>>testTypes: web, api
 >>forAllTests: true
 
 ^^beforeAll()
 	__Common::APIFunction > dfs__ 
-	#dummy 
+	#dummy from remote
 
 ^^
 
@@ -12,6 +12,7 @@
 ^^beforeEach()
 >{
 let a = 123;
+let flag = false;
 }<
 
 ^^
@@ -19,7 +20,7 @@ let a = 123;
 
 
 ^^afterEach()
-	--Wait for-- [[200]] --milliseconds-- 
+	--Wait for-- [[800]] --milliseconds-- 
 
 ^^
 
@@ -27,7 +28,7 @@ let a = 123;
 
 ^^afterAll()
 >{
-let b = "New one"
+let b = "New"
 }<
 
 ^^
