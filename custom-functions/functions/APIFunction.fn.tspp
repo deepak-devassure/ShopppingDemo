@@ -1,9 +1,9 @@
->>summary: Summary from remote123
+>>summary: Summary from remo
 
 
 
 ^^Common::dfs()
 	::apiResponse_1 = --Call API-- {{Api > xzxj}} 
-	--Verify status code of http response-- ::apiResponse_1:: > [[500]] 
+	--Verify status code of http response-- ::apiResponse_1:: > [[1200]] 
 
 ^^
