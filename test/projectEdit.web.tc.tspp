@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+__web > DevAssure > init__ [[http://localhost:3000/login]] 
+__web > DevAssure > login123__ [[deepa]] [[deepak@gmail.com]] 
+__web > DevAssure > projects__ [[com.da.shipping]] [[com.da.shippping]] [[on]] [[com.da.skipping]] 
+

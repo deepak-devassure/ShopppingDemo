@@ -1,0 +1,9 @@
+
+
+^^json()
+{
+    "method": "GET",
+    "baseUrl": "https://jsonplaceholder.typicode.com",
+    "path": "todos/1"
+}
+^^

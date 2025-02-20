@@ -1,6 +1,0 @@
->>summary: 
->>recorderName: Signin-GoogleAccounts
-
-==frame_74;CSS;[sandbox];;[CSS:iframe:nth-child(3)];[frame_74];[Signin-GoogleAccounts];==
-==frame_55;CSS;:root > :nth-child(2) > :nth-child(5);;[CSS:iframe:nth-child(5)];[frame_55];[Signin-GoogleAccounts];==
-==Passwd;CSS;[name='Passwd'];Input;[CSS:[aria-label='Enter your password']^^CSS:[type='password']^^CSS:[autocapitalize]^^CSS:#password input];[Passwd];[Signin-GoogleAccounts];==

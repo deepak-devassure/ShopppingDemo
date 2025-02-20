@@ -1,4 +1,0 @@
->>summary: 
->>recorderName: DiscovertopStartups|CompaniesHiringInIndia|YourTribe
-
-==ViewMore;XPATH;//a[text()="View More"];Link;[CSS:.remove-routing .primary-link^^CSS:div:nth-child(5) > div > a];[ViewMore];[DiscovertopStartups|CompaniesHiringInIndia|YourTribe];==

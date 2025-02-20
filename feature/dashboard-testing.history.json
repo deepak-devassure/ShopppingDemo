@@ -1,0 +1,535 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-11-25T06:16:53.160Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-25T06:17:59.649Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-25T06:18:58.161Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "07967d0f-ff05-4f76-9d91-36280c3e2c48",
+                "status": "success",
+                "requestId": "f6ec651e-3e5f-4962-bfd9-016f916c3405"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T06:20:14.304Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "6bd2e553-99c7-45eb-8a7c-89268010ba22",
+                        "question": "What should be the maximum character length for dashboard and widget names?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a1318718-96b2-40b6-b212-c639ed0f0dcf",
+                        "question": "Is there a limit on the number of widgets a dashboard can contain?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "7319f9fa-10f5-4688-b5f0-45daea92815b",
+                        "question": "What types of data validation errors should be expected for chart widgets?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "fd20238e-1551-4a6f-8a48-b6f935d520c5",
+                        "question": "Is there a limit on the number of widgets that can be added to a dashboard?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "41633864-d1df-40e4-811d-c610e74a6530",
+                        "question": "Are there specific dimensions for the grid-based layout that need to be tested?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "2adedc6a-859d-4dad-b255-2f237d78e64d",
+                        "question": "What constitutes a validation error for the chart widgets?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "07967d0f-ff05-4f76-9d91-36280c3e2c48",
+                "requestId": "f6ec651e-3e5f-4962-bfd9-016f916c3405",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:38:15.662Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "b4c9445d-d47e-4d96-bba7-717e7880e43d",
+                "status": "success",
+                "requestId": "a65c1736-ba48-4e15-98f6-6073c6816298"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:39:03.728Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "65dd7647-a00c-4541-8da9-1170290ef8bc",
+                        "question": "Is there a maximum number of widgets that a user can add to a dashboard?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "c097c6b8-c97b-4525-b3ef-4567e42f8b7d",
+                        "question": "Are there any specific browser requirements or limitations for the dashboard layout functionality?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "17940145-4f3a-4883-9f89-847b22aeddf0",
+                        "question": "How should the system handle the scenario where the data source for a widget becomes unavailable or invalid?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "b4c9445d-d47e-4d96-bba7-717e7880e43d",
+                "requestId": "a65c1736-ba48-4e15-98f6-6073c6816298",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:39:37.807Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "77778c23-17f5-4808-b86c-0e9e171a7a18",
+                "status": "success",
+                "requestId": "abe70d95-a1cc-4553-b1d7-b3200812afa8"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:40:47.194Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "77778c23-17f5-4808-b86c-0e9e171a7a18",
+                "requestId": "abe70d95-a1cc-4553-b1d7-b3200812afa8",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:41:06.044Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "ed731efc-5aa2-4689-bd01-acc17e756975",
+                "status": "success",
+                "requestId": "f530b2f6-6378-4d7c-aba7-10d45529dfe4"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:42:12.892Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "ed731efc-5aa2-4689-bd01-acc17e756975",
+                "requestId": "f530b2f6-6378-4d7c-aba7-10d45529dfe4",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:06:25.453Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "3ca3186d-a462-4f69-b053-ca0f9fe48d1a",
+                "status": "success",
+                "requestId": "8197bba1-67b2-439f-b501-aa17d3a2d672"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:07:34.052Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "3ca3186d-a462-4f69-b053-ca0f9fe48d1a",
+                "requestId": "8197bba1-67b2-439f-b501-aa17d3a2d672",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:09:10.865Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "424e0735-edf3-437e-9911-463b03566895",
+                "status": "generating",
+                "requestId": "53c33df1-1810-46f7-9330-78d5f8582253"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:10:11.060Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "f5dff835-1240-43b6-8535-71c33cf3fc43",
+                "status": "success",
+                "requestId": "43c99998-0f2e-488e-bf3b-54e7d5e27be0"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:11:38.905Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "f5dff835-1240-43b6-8535-71c33cf3fc43",
+                "requestId": "43c99998-0f2e-488e-bf3b-54e7d5e27be0",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:10:50.017Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "ab8c8d77-03d3-4031-b6ad-5dd64f24119c",
+                "status": "success",
+                "requestId": "2a815a29-3653-4c16-833a-40c0b7f65966"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:12:05.638Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "ab8c8d77-03d3-4031-b6ad-5dd64f24119c",
+                "requestId": "2a815a29-3653-4c16-833a-40c0b7f65966",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:13:54.114Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "4d11b013-7273-4586-ab4e-e11a5df5581a",
+                "status": "success",
+                "requestId": "bf4da5cd-8089-44a1-a68d-8505a4407570"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:14:24.603Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [],
+                "generationId": "4d11b013-7273-4586-ab4e-e11a5df5581a",
+                "requestId": "bf4da5cd-8089-44a1-a68d-8505a4407570",
+                "numTestCases": 5,
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:15:26.271Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "a9e54cd3-9658-4e2a-862a-0cef7dca1d13",
+                "status": "success",
+                "requestId": "6d8a3a0b-6415-4193-8806-6787d0af589c"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:15:50.033Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 0,
+                "questions": [],
+                "generationId": "a9e54cd3-9658-4e2a-862a-0cef7dca1d13",
+                "requestId": "6d8a3a0b-6415-4193-8806-6787d0af589c",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:15:57.437Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "69007ee7-615f-484d-961c-aa6438749f2d",
+                "status": "success",
+                "requestId": "93d4b182-aace-455d-9599-8af8f9dc5e89"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:16:21.500Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 0,
+                "questions": [],
+                "generationId": "69007ee7-615f-484d-961c-aa6438749f2d",
+                "requestId": "93d4b182-aace-455d-9599-8af8f9dc5e89",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:19:03.496Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "d5e957be-5e58-4b68-bc0d-388077d44523",
+                "status": "success",
+                "requestId": "65ecaea0-bbb6-440d-bc6a-9b9ead6e4440"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:20:21.931Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "d5e957be-5e58-4b68-bc0d-388077d44523",
+                "requestId": "65ecaea0-bbb6-440d-bc6a-9b9ead6e4440",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:20:27.920Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "cc37a218-1ff3-44e2-baf7-9f4f57c2ee8f",
+                "status": "success",
+                "requestId": "344bd623-b557-4a48-972e-c4cf8533c4cc"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:21:58.032Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "cc37a218-1ff3-44e2-baf7-9f4f57c2ee8f",
+                "requestId": "344bd623-b557-4a48-972e-c4cf8533c4cc",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:30:42.463Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "d024f6a2-bcf3-498d-87db-a4363a691460",
+                "status": "success",
+                "requestId": "aa29bbc2-f796-4afb-a0ce-9eb754d7ead5"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:32:38.070Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "d024f6a2-bcf3-498d-87db-a4363a691460",
+                "requestId": "aa29bbc2-f796-4afb-a0ce-9eb754d7ead5",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:32:40.705Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "0093601f-0df2-4414-bf4e-7bdbde245a47",
+                "status": "success",
+                "requestId": "08de8fb4-9bfc-4a0c-a48e-9fc457030f36"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:33:38.079Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "0093601f-0df2-4414-bf4e-7bdbde245a47",
+                "requestId": "08de8fb4-9bfc-4a0c-a48e-9fc457030f36",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:46:10.538Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "832d1592-96d6-421f-8b31-790a0cb7e5fb",
+                "status": "success",
+                "requestId": "3d0acbf7-f76b-43c0-bf50-50d02b5efa1c"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T10:47:12.595Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "832d1592-96d6-421f-8b31-790a0cb7e5fb",
+                "requestId": "3d0acbf7-f76b-43c0-bf50-50d02b5efa1c",
+                "status": "success"
+            }
+        }
+    ]
+}
