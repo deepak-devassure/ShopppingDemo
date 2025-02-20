@@ -1,0 +1,144 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-11-25T06:12:26.563Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-25T06:14:57.004Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-25T06:15:03.220Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "ebe5850e-c9c0-4777-9543-6a473d94f8d2",
+                "status": "success",
+                "requestId": "255caee7-8587-4424-af2d-dc250cae982c"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T06:16:16.131Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "ebe5850e-c9c0-4777-9543-6a473d94f8d2",
+                "requestId": "255caee7-8587-4424-af2d-dc250cae982c",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T06:16:32.009Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "a1a68cbe-f078-4640-9615-8e8820bab787",
+                "status": "success",
+                "requestId": "94cb9cde-4170-4639-84d6-19fed3ebbd65"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T06:18:31.585Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "a1a68cbe-f078-4640-9615-8e8820bab787",
+                "requestId": "94cb9cde-4170-4639-84d6-19fed3ebbd65",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:35:16.650Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "848a331d-c55f-4b12-8a63-46a4440fa871",
+                "status": "success",
+                "requestId": "a971415c-abc3-47e9-8fa8-060e96330631"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:36:34.503Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "848a331d-c55f-4b12-8a63-46a4440fa871",
+                "requestId": "a971415c-abc3-47e9-8fa8-060e96330631",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:36:37.481Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "b9a1ad3a-912d-4d38-b73f-469d4ba79bc9",
+                "status": "success",
+                "requestId": "6ee38d4e-5db0-4c0b-af82-4024e7eb5c1b"
+            }
+        },
+        {
+            "timestamp": "2024-11-25T08:37:51.930Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "b9a1ad3a-912d-4d38-b73f-469d4ba79bc9",
+                "requestId": "6ee38d4e-5db0-4c0b-af82-4024e7eb5c1b",
+                "status": "success"
+            }
+        }
+    ]
+}

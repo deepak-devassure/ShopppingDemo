@@ -1,0 +1,576 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-11-20T09:47:12.867Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T09:47:17.514Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T09:47:18.040Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "6306d30f-817f-4f37-b8b4-59ffb061acc7",
+                "status": "success",
+                "requestId": "995c60e9-4180-4b05-ba58-3cf0cfa3594b"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:48:10.334Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "5d16ae53-2a10-4d94-8861-8a5facc57069",
+                        "question": "Is there a limit to how many days can be selected for the service duration?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 0,
+                        "answer": ""
+                    },
+                    {
+                        "id": "86fe49ee-5b56-4589-a04f-ac304b0b543d",
+                        "question": "How are the modifications to a booking communicated to the sitter?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 1,
+                        "answer": ""
+                    },
+                    {
+                        "id": "145a4b74-8b5b-4ab8-a0b3-946fde2f807d",
+                        "question": "What details are included in the automated reminder notification?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 2,
+                        "answer": ""
+                    },
+                    {
+                        "id": "1162a8de-cd0f-431d-a9a2-0ca9ffa40a77",
+                        "question": "What is the defined behavior if a sitter does not respond to a booking request within the 1-hour window?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 3,
+                        "answer": ""
+                    },
+                    {
+                        "id": "9147776e-7e8d-415c-94cf-daa1e6106dfc",
+                        "question": "How should the system handle payment processing and what are the acceptable methods of payment?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 4,
+                        "answer": ""
+                    },
+                    {
+                        "id": "8699241e-b5ba-4cb9-8feb-2b9091d93d59",
+                        "question": "Is there a limit to how far in advance a pet owner can schedule a service?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 5,
+                        "answer": ""
+                    },
+                    {
+                        "id": "dc12fc44-463b-4cbf-9d08-f48d701ee94a",
+                        "question": "What specific information is included in the sitter's details during the booking review step?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 6,
+                        "answer": ""
+                    },
+                    {
+                        "id": "f7d151a9-cb96-4f09-b2ff-ff08319c4468",
+                        "question": "Are there any constraints on the special instructions that can be added by the pet owner?",
+                        "status": "not-attempted",
+                        "historyIndex": 3,
+                        "questionIndex": 7,
+                        "answer": ""
+                    }
+                ],
+                "generationId": "6306d30f-817f-4f37-b8b4-59ffb061acc7",
+                "requestId": "995c60e9-4180-4b05-ba58-3cf0cfa3594b",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-service-duration-selection.web.tc.tspp",
+                    "test > petpal > test-dashboard-upcoming-bookings.web.tc.tspp",
+                    "test > petpal > test-modification-options.web.tc.tspp",
+                    "test > petpal > test-cancellation-process.web.tc.tspp",
+                    "test > petpal > test-automated-reminder.web.tc.tspp",
+                    "test > petpal > test-calendar-availability-display.web.tc.tspp",
+                    "test > petpal > test-time-slot-selection.web.tc.tspp",
+                    "test > petpal > test-recurring-booking-weekly.web.tc.tspp",
+                    "test > petpal > test-booking-flow.web.tc.tspp",
+                    "test > petpal > test-sitter-notification-response.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:48:13.001Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "2bda9b9d-cb6e-494f-8df6-54b64773db7d",
+                "status": "success",
+                "requestId": "adc33d17-8a23-43eb-b369-2ab52c19258d"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:49:14.136Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "2bda9b9d-cb6e-494f-8df6-54b64773db7d",
+                "requestId": "adc33d17-8a23-43eb-b369-2ab52c19258d",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-time-slot-selection.web.tc.tspp",
+                    "test > petpal > test-recurring-booking-weekly.web.tc.tspp",
+                    "test > petpal > test-automatic-notification-rebooking.web.tc.tspp",
+                    "test > petpal > test-service-completion-confirmation.web.tc.tspp",
+                    "test > petpal > test-modification-options.web.tc.tspp",
+                    "test > petpal > test-monthly-recurring-booking.web.tc.tspp",
+                    "test > petpal > test-confirmation-system-rebooking.web.tc.tspp",
+                    "test > petpal > test-service-completion-confirmation.web.tc.tspp",
+                    "test > petpal > test-time-slot-selection-reflection.web.tc.tspp",
+                    "test > petpal > test-adding-special-instructions.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:50:16.573Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "2545cb97-359a-42c0-984e-f4e935e7b302",
+                "status": "success",
+                "requestId": "83e8d861-3c12-4242-9e0f-596bc0092d51"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:51:01.978Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [
+                    {
+                        "id": "3463eb31-8222-4d2e-9c50-c0eeb463dfaf",
+                        "question": "Is there a functionality in place to alert the pet owner if the sitter does not respond to the booking within the 1-hour window?",
+                        "status": "not-attempted",
+                        "historyIndex": 7,
+                        "questionIndex": 0,
+                        "answer": ""
+                    },
+                    {
+                        "id": "2bae10cb-c00b-4ae9-af4d-ccec62124556",
+                        "question": "How should the system handle a situation where a sitter's availability changes after a pet owner has viewed their calendar but before they complete the booking?",
+                        "status": "not-attempted",
+                        "historyIndex": 7,
+                        "questionIndex": 1,
+                        "answer": ""
+                    }
+                ],
+                "generationId": "2545cb97-359a-42c0-984e-f4e935e7b302",
+                "requestId": "83e8d861-3c12-4242-9e0f-596bc0092d51",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-non-recurring-booking.web.tc.tspp",
+                    "test > petpal > test-calendar-availability-post-booking.web.tc.tspp",
+                    "test > petpal > test-special-instructions-confirmation.web.tc.tspp",
+                    "test > petpal > test-dashboard-upcoming-booking-status.web.tc.tspp",
+                    "test > petpal > test-automatic-notification-service-completion.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:51:06.899Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "bc11294f-ddd7-49ad-bc8b-6e2c5922d7e0",
+                "status": "success",
+                "requestId": "52b01c6e-86df-459b-8ffd-50a94c51c651"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:52:04.991Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "bc11294f-ddd7-49ad-bc8b-6e2c5922d7e0",
+                "requestId": "52b01c6e-86df-459b-8ffd-50a94c51c651",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-select-time-slot-and-price.web.tc.tspp",
+                    "test > petpal > test-prevent-double-booking.web.tc.tspp",
+                    "test > petpal > test-availability-after-cancellation.web.tc.tspp",
+                    "test > petpal > test-booking-confirmation-details.web.tc.tspp",
+                    "test > petpal > test-booking-modification-confirmation.web.tc.tspp",
+                    "test > petpal > test-schedule-non-recurring-with-instructions.web.tc.tspp",
+                    "test > petpal > test-modify-recurring-booking.web.tc.tspp",
+                    "test > petpal > test-calendar-updated-post-modification.web.tc.tspp",
+                    "test > petpal > test-instant-rebooking-suggestions.web.tc.tspp",
+                    "test > petpal > test-booking-outside-availability.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:52:27.746Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "034d0425-14f9-4013-be7b-04bed4e34bc8",
+                "status": "success",
+                "requestId": "5bece952-cd9a-4c2a-9b38-1af8a485cb24"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:53:32.204Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "034d0425-14f9-4013-be7b-04bed4e34bc8",
+                "requestId": "5bece952-cd9a-4c2a-9b38-1af8a485cb24",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-block-time-slots.web.tc.tspp",
+                    "test > petpal > test-recurring-booking-selection.web.tc.tspp",
+                    "test > petpal > test-booking-modification-update.web.tc.tspp",
+                    "test > petpal > test-cancellation-confirmation-update.web.tc.tspp",
+                    "test > petpal > test-service-duration-price-adjustment.web.tc.tspp",
+                    "test > petpal > test-restrict-past-dates.web.tc.tspp",
+                    "test > petpal > test-booking-confirmation-details.web.tc.tspp",
+                    "test > petpal > test-payment-gateway-integration.web.tc.tspp",
+                    "test > petpal > test-sitter-decline-within-window.web.tc.tspp",
+                    "test > petpal > test-dashboard-update-on-accept.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:53:59.708Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "e8b65344-9828-4d88-98d8-a3dc7dc6ce8d",
+                "status": "success",
+                "requestId": "e6255bf1-9ad7-4caa-b22e-f150d0d2e7ef"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:55:07.349Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "e8b65344-9828-4d88-98d8-a3dc7dc6ce8d",
+                "requestId": "e6255bf1-9ad7-4caa-b22e-f150d0d2e7ef",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-duration-time-slot-selection.web.tc.tspp",
+                    "test > petpal > test-non-recurring-booking-selection.web.tc.tspp",
+                    "test > petpal > test-cancellation-updates-sitter-availability.web.tc.tspp",
+                    "test > petpal > test-overlapping-bookings-prevention.web.tc.tspp",
+                    "test > petpal > test-reminder-notification.web.tc.tspp",
+                    "test > petpal > test-select-service-type.web.tc.tspp",
+                    "test > petpal > test-date-time-selection-reflection.web.tc.tspp",
+                    "test > petpal > test-automated-reminder.web.tc.tspp",
+                    "test > petpal > test-prevent-double-booking.web.tc.tspp",
+                    "test > petpal > test-booking-modification-availability-update.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:55:13.565Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "6cdb9cbc-6e86-4094-b5cf-615805793933",
+                "status": "success",
+                "requestId": "4bdd18af-63a0-4e9c-a033-f923c958f458"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:56:20.314Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "6cdb9cbc-6e86-4094-b5cf-615805793933",
+                "requestId": "4bdd18af-63a0-4e9c-a033-f923c958f458",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-boarding-multiple-days-price.web.tc.tspp",
+                    "test > petpal > test-modify-non-recurring-booking.web.tc.tspp",
+                    "test > petpal > test-booking-reschedule-sitter-calendar-update.web.tc.tspp",
+                    "test > petpal > test-automated-reminder-24hr-email-sms.web.tc.tspp",
+                    "test > petpal > test-decline-booking-upcoming-bookings-update.web.tc.tspp",
+                    "test > petpal > test-dashboard-availability-update.web.tc.tspp",
+                    "test > petpal > test-special-instructions-retention.web.tc.tspp",
+                    "test > petpal > test-service-duration-selection-and-price-update.web.tc.tspp",
+                    "test > petpal > test-booking-confirmation-details.web.tc.tspp",
+                    "test > petpal > test-dashboard-status-update-on-cancellation.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:57:38.173Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "1e2b561a-b2c8-430a-a195-c720c1edc42a",
+                "status": "success",
+                "requestId": "79e044b3-b69f-4ec8-bdf3-c417a9da705c"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:58:47.616Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "e2a2efa7-243d-4adc-a059-36756d146063",
+                        "question": "Is there a limit to the number of special instructions a pet owner can provide during booking?",
+                        "status": "not-attempted",
+                        "historyIndex": 17,
+                        "questionIndex": 0,
+                        "answer": ""
+                    },
+                    {
+                        "id": "4e6b890c-9cd2-4dc6-8244-bf8d8b7b8d3f",
+                        "question": "What happens in the booking flow if the payment gateway is down or unresponsive?",
+                        "status": "not-attempted",
+                        "historyIndex": 17,
+                        "questionIndex": 1,
+                        "answer": ""
+                    },
+                    {
+                        "id": "a38661fb-db09-4579-9920-184f55b9c174",
+                        "question": "How does the system handle daylight saving time changes for recurring bookings?",
+                        "status": "not-attempted",
+                        "historyIndex": 17,
+                        "questionIndex": 2,
+                        "answer": ""
+                    }
+                ],
+                "generationId": "1e2b561a-b2c8-430a-a195-c720c1edc42a",
+                "requestId": "79e044b3-b69f-4ec8-bdf3-c417a9da705c",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:58:53.908Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "e8dfdcfa-30f8-4dd3-96a6-78b28ec0ab67",
+                "status": "success",
+                "requestId": "19baf50c-33e7-4122-9721-e7102dd6bc9a"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:59:45.031Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "e8dfdcfa-30f8-4dd3-96a6-78b28ec0ab67",
+                "requestId": "19baf50c-33e7-4122-9721-e7102dd6bc9a",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-input-special-instructions.web.tc.tspp",
+                    "test > petpal > test-calculate-multiple-days-price.web.tc.tspp",
+                    "test > petpal > test-calendar-real-time-updates.web.tc.tspp",
+                    "test > petpal > test-booking-reschedule-confirmation.web.tc.tspp",
+                    "test > petpal > test-prevent-incomplete-payment-booking.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:59:55.871Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "d7e86a96-b7b4-4312-b5c6-43bd3b76e149",
+                "status": "success",
+                "requestId": "a6994d29-a245-4f13-be2f-55b2cb80e0b6"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T10:01:18.393Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "5b79d105-c4c9-4b21-8d6e-9eddac9ca0cc",
+                        "question": "What is the character limit for special instructions in the booking flow interface?",
+                        "status": "not-attempted",
+                        "historyIndex": 21,
+                        "questionIndex": 0,
+                        "answer": ""
+                    },
+                    {
+                        "id": "0135880a-fba7-4fdb-9674-7c6ac3990843",
+                        "question": "Are there any specific requirements for the content of the booking confirmation email/SMS sent to the pet owner?",
+                        "status": "not-attempted",
+                        "historyIndex": 21,
+                        "questionIndex": 1,
+                        "answer": ""
+                    }
+                ],
+                "generationId": "d7e86a96-b7b4-4312-b5c6-43bd3b76e149",
+                "requestId": "a6994d29-a245-4f13-be2f-55b2cb80e0b6",
+                "status": "success",
+                "files": [
+                    "test > petpal > test-walking-service-selection.web.tc.tspp",
+                    "test > petpal > test-special-instructions-limit.web.tc.tspp",
+                    "test > petpal > test-sitter-dashboard-multiple-bookings.web.tc.tspp",
+                    "test > petpal > test-boarding-service-scheduling.web.tc.tspp",
+                    "test > petpal > test-booking-confirmation-communication.web.tc.tspp",
+                    "test > petpal > test-special-instructions-retention.web.tc.tspp",
+                    "test > petpal > test-recurring-booking-selection-weekly.web.tc.tspp",
+                    "test > petpal > test-calendar-view-post-booking.web.tc.tspp",
+                    "test > petpal > test-booking-modification-confirmation.web.tc.tspp",
+                    "test > petpal > test-service-duration-price-calculation.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T10:08:54.465Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "469d1d7d-89d2-4700-afd7-13c026c895dd",
+                "status": "success",
+                "requestId": "901c06df-f6ce-4f9c-b9f1-05a9ef8fb35d"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T10:10:26.710Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "469d1d7d-89d2-4700-afd7-13c026c895dd",
+                "requestId": "901c06df-f6ce-4f9c-b9f1-05a9ef8fb35d",
+                "status": "success"
+            }
+        }
+    ]
+}

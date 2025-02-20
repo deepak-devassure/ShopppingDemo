@@ -1,4 +1,0 @@
->>summary: 
->>recorderName: Login|Elevate
-
-==ContinuewithGoogle;XPATH;//span[text()="Continue with Google"];;[CSS:.c8f9ee530 .c7c2113cb^^CSS:form:nth-child(1) > button > span:nth-child(2)];[ContinuewithGoogle];[Login|Elevate];==

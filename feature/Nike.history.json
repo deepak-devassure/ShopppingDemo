@@ -1,0 +1,801 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-11-20T08:23:32.671Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T08:23:36.772Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T08:23:59.981Z",
+            "action": "UPDATED_MOCKUP",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T08:24:15.405Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "75bcede9-693c-456a-877c-5f6f58373a35",
+                "status": "success",
+                "requestId": "6e21340c-f751-435d-a894-d32c7a45fa11"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:25:30.344Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "f5fdd91d-391a-4959-b616-4a362d031200",
+                        "question": "What are the specific screen sizes or breakpoints for the responsive design to verify the navigation bar compatibility?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "2bd6fc3c-ae54-4aaa-b80d-4c1069b2bf2d",
+                        "question": "How does the quick-access cart icon indicate the number of items - is it a numerical badge or a graphical change?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "22d4c16f-fbee-46aa-8936-67122b294768",
+                        "question": "What is the expected behavior if a filter under 'Men's' category is selected when multiple filters are already applied?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "b6909523-f4c3-4317-b33c-3ebeaea1c1f1",
+                        "question": "Is there a specific order in which the products should be sorted (e.g., alphabetical, by SKU), and should this be consistent across all categories?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "dd3fdb36-25ac-4b28-87f9-95a283d829b9",
+                        "question": "Are there any specific accessibility features that need to be tested for the sorting feature on the Shopping/Browsing Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "fcbe8bf2-667a-445e-b879-330ba6b717eb",
+                        "question": "What is the maximum character limit for the Order Number and Email Address fields?",
+                        "status": "not-attempted",
+                        "historyIndex": 4,
+                        "questionIndex": 0,
+                        "answer": ""
+                    },
+                    {
+                        "id": "985376d7-4593-46a7-82b4-087057d86e75",
+                        "question": "Are there any specific criteria for password strength for user accounts?",
+                        "status": "not-attempted",
+                        "historyIndex": 4,
+                        "questionIndex": 1,
+                        "answer": ""
+                    },
+                    {
+                        "id": "83bb645a-e165-4903-9f8c-c960abe6ac6f",
+                        "question": "Is there a limit to the number of products that can be added to the cart at one time?",
+                        "status": "not-attempted",
+                        "historyIndex": 4,
+                        "questionIndex": 2,
+                        "answer": ""
+                    },
+                    {
+                        "id": "189042e9-23b0-44e6-9d34-fbd731fb5ef5",
+                        "question": "What should happen when a user tries to proceed with an invalid or incomplete delivery information form?",
+                        "status": "not-attempted",
+                        "historyIndex": 4,
+                        "questionIndex": 3,
+                        "answer": ""
+                    },
+                    {
+                        "id": "1d8fa2b8-159f-470c-a2aa-9bb51686b7a5",
+                        "question": "How should the system handle cases where the National ID is not applicable or available for a customer during customs clearance?",
+                        "status": "not-attempted",
+                        "historyIndex": 4,
+                        "questionIndex": 4,
+                        "answer": ""
+                    }
+                ],
+                "generationId": "75bcede9-693c-456a-877c-5f6f58373a35",
+                "requestId": "6e21340c-f751-435d-a894-d32c7a45fa11",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-login-prompt-order-tracking.web.tc.tspp",
+                    "test > Nike > test-responsive-nav-bar.web.tc.tspp",
+                    "test > Nike > test-quick-access-cart-icon.web.tc.tspp",
+                    "test > Nike > test-mens-clothing-filtering.web.tc.tspp",
+                    "test > Nike > test-product-sorting.web.tc.tspp",
+                    "test > Nike > test-activate-submit.web.tc.tspp",
+                    "test > Nike > test-navigation-filtering.web.tc.tspp",
+                    "test > Nike > test-add-to-cart-checkout.web.tc.tspp",
+                    "test > Nike > test-delivery-info-validation.web.tc.tspp",
+                    "test > Nike > test-accessibility-features.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:26:53.475Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "7d881614-08f2-45e8-a4b8-0ebc87c8f7b5",
+                "status": "success",
+                "requestId": "ebceccf9-32ee-4799-8ec1-0634aa5d42a2"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:27:20.263Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [
+                    {
+                        "id": "a4fd8600-401a-4d5a-af39-1a8f628d553c",
+                        "question": "What is the valid format and character set for the Order Number field?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "725c3992-c356-48f8-93a4-cea82a796966",
+                        "question": "Is there a maximum character limit for the Email Address and Order Number fields?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "926d2c75-0a13-4689-b490-faf89586d139",
+                        "question": "What specific error messages should be displayed for invalid inputs in Order Tracking Page fields?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "34dbd9bb-5a16-47d5-9c43-59dad09e6501",
+                        "question": "What should happen if a user tries to apply multiple filters from different categories on the Shopping/Browsing Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "e5600d3a-4898-4f4c-af2b-1c368a39695b",
+                        "question": "Are there any required fields in the delivery information form that should always be filled in before proceeding to payment?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "7d881614-08f2-45e8-a4b8-0ebc87c8f7b5",
+                "requestId": "ebceccf9-32ee-4799-8ec1-0634aa5d42a2",
+                "numTestCases": 5,
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:31:24.238Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "dbec30e7-a441-42b7-ac6f-56ea518f6bd7",
+                "status": "error",
+                "requestId": "fcceeb0e-41a5-4a07-a7c2-1dada5d39dcd",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:32:04.080Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "976b4666-93d4-4b06-93b0-3a0694d8a986",
+                "status": "success",
+                "requestId": "a7b2dee2-5697-43ed-a07c-5dddb60a9d59"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:33:15.349Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "dfa3c5ed-ffac-45e5-84c5-70b4df4032e8",
+                        "question": "What is the maximum number of items that can be added to the cart at one time?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d7464ce5-fad0-41ed-b7ca-eb4792010677",
+                        "question": "What sizes are available for filtering on the Shopping/Browsing Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "1fd9c4e1-e146-4f76-a6ad-54d488c89337",
+                        "question": "What price ranges are available for the 'Shop by Price' sidebar filter?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "3de86a10-87ac-4be3-ba29-0435e9eb8ba4",
+                        "question": "Are there any field validations for the Delivery Information form on the Checkout/Delivery Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "ca20cd49-6c0b-42be-98ad-8f890b7e821b",
+                        "question": "Are there specific format requirements for the National ID information in the Customs Clearance Section?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a21d5511-9e12-41ad-822c-5d7eb7c57bc8",
+                        "question": "What should be displayed if the 'Forgot your order number?' link is clicked by a logged-in user versus a guest user?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d32340c2-7bd2-400a-b485-e29ec04cd156",
+                        "question": "How should the system behave when a high-resolution product image fails to load due to network issues?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "186c9476-a618-4208-b6fa-2d0eb783edfc",
+                        "question": "Is there a visual indicator for products made with sustainable materials on the Shopping/Browsing Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "5eef7d2b-bdeb-4825-90cc-441f2351eb4b",
+                        "question": "What are the expected delivery timeline ranges for domestic and international shipping?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d19c27f8-8819-4cc6-83d2-c599af02596d",
+                        "question": "Should the estimated delivery timeline update in real-time as the user fills in their delivery information?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "976b4666-93d4-4b06-93b0-3a0694d8a986",
+                "requestId": "a7b2dee2-5697-43ed-a07c-5dddb60a9d59",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-order-summary-multiple-products.web.tc.tspp",
+                    "test > Nike > test-filter-by-size.web.tc.tspp",
+                    "test > Nike > test-shop-by-price-filter.web.tc.tspp",
+                    "test > Nike > test-delivery-information-accuracy.web.tc.tspp",
+                    "test > Nike > test-customs-clearance-data-entry.web.tc.tspp",
+                    "test > Nike > test-invalid-email-format.web.tc.tspp",
+                    "test > Nike > test-forgot-order-number.web.tc.tspp",
+                    "test > Nike > test-high-res-image-loading.web.tc.tspp",
+                    "test > Nike > test-filter-by-material.web.tc.tspp",
+                    "test > Nike > test-estimated-delivery-update.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:35:01.681Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "6a0fc96f-f662-4b24-8aad-ac66b62d8e52",
+                "status": "success",
+                "requestId": "18700758-7a1f-48b8-afd7-21c431728913"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:36:21.484Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "7775ce4b-792e-4429-b9fe-08910ed7961f",
+                        "question": "What is the maximum character length for the Order Number field on the Order Tracking Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "bcf3220e-7dc4-47cd-95cf-a87924d372e4",
+                        "question": "Is there a specific format or validation for the National ID information required on the Checkout/Delivery Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "b30ab715-f7dc-4e0f-ace3-25bc80218bc5",
+                        "question": "What is the maximum number of high-resolution product images that can be displayed on the Product Detail Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "1a9e38d0-e51b-4edd-9e3b-43c8dee1e0ce",
+                        "question": "Are there any character restrictions or validations for the delivery information form fields on the Checkout/Delivery Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "7e551ef5-8fc8-47c0-ac06-5dbb9adb435c",
+                        "question": "On the Shopping/Browsing Page, are there any visual indicators for the active filters applied?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "89c7436b-20fc-4337-85b0-4814a9ce016f",
+                        "question": "What criteria are used to determine the products displayed in the 'You Might Also Like' section on the Bag Summary Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "42b37a2f-c907-4b26-ab8f-0a3721baa25f",
+                        "question": "How is the user's member status verified when the 'Member Checkout' button is clicked on the Bag Summary Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "0066fc06-2cf4-4f0f-bab8-85552411054c",
+                        "question": "Is there a limit to the number of products displayed under the 'You Might Also Like' section on the Bag Summary Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "c34b2c68-dd5b-4ed8-a1cf-2f3172d36844",
+                        "question": "What should happen if no products match the 'Gender' filter selected on the Shopping/Browsing Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "140a30d8-12ba-4c70-8529-edbec3507e2e",
+                        "question": "What is the expected behavior if the search functionality on the Shopping/Browsing Page yields no results?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "6a0fc96f-f662-4b24-8aad-ac66b62d8e52",
+                "requestId": "18700758-7a1f-48b8-afd7-21c431728913",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-order-tracking-navigation.web.tc.tspp",
+                    "test > Nike > test-product-details-selection.web.tc.tspp",
+                    "test > Nike > test-bag-summary-details.web.tc.tspp",
+                    "test > Nike > test-checkout-navigation-validation.web.tc.tspp",
+                    "test > Nike > test-sidebar-gender-filter.web.tc.tspp",
+                    "test > Nike > test-member-checkout-display-functionality.web.tc.tspp",
+                    "test > Nike > test-product-details-price-verification.web.tc.tspp",
+                    "test > Nike > test-sidebar-gender-filter.web.tc.tspp",
+                    "test > Nike > test-search-functionality-results.web.tc.tspp",
+                    "test > Nike > test-you-might-also-like-section.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:39:30.117Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "37ab37cc-ad12-41e3-8c07-8cc1f743b91d",
+                "status": "success",
+                "requestId": "b89c7fec-cbeb-4c74-a4a1-722d0d18ca67"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:41:13.872Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "559e3b63-0d45-4504-ad65-3619d75ff149",
+                        "question": "What is the specific error message displayed when an incorrect order number format is entered?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "b179fffa-ccc5-42ac-a7a8-83b33dadb741",
+                        "question": "What are the exact breakpoints for the responsiveness of the navigation bar on different devices?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "40cd2739-1cb9-4d1c-a744-e62a4a2647d3",
+                        "question": "Is there an indicator or highlight that shows the selected size and color options on the product details page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "46b2626c-d17b-4fec-9ecb-d5d0e0fc384f",
+                        "question": "What are the mandatory fields in the Customs Clearance Section that need to be filled out before submission?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "eceee078-854d-4e41-8aaf-430337befa88",
+                        "question": "What is the process flow after initiating a return on the Order Tracking Page?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "37ab37cc-ad12-41e3-8c07-8cc1f743b91d",
+                "requestId": "b89c7fec-cbeb-4c74-a4a1-722d0d18ca67",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:42:05.805Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "8077a8d8-aefc-4247-a5d8-4a7935607b4c",
+                "status": "success",
+                "requestId": "0136bbd5-a83a-4382-98ff-50bb7a40dbb7"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:43:14.509Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "7fdf2e5c-1fa5-4aea-aff0-56f50fe496f3",
+                        "question": "Is there a limit to the number of favorites a user can add on the Product Detail Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "27ffb699-c95c-45c8-a419-cde3f90e7af8",
+                        "question": "What should happen if a user tries to add more products to the bag than are available in stock?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "9217469e-c26b-4b9a-80e6-f8969246d63b",
+                        "question": "How should the system behave if a user modifies product quantity to zero in the Bag Summary Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "ddf6b63d-4aba-46bc-9fc7-0483bd5402ef",
+                        "question": "Does the 'New & Featured' link in the top navigation bar filter products, and if so, what are the criteria?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "8077a8d8-aefc-4247-a5d8-4a7935607b4c",
+                "requestId": "0136bbd5-a83a-4382-98ff-50bb7a40dbb7",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-login-link-navigation.web.tc.tspp",
+                    "test > Nike > test-bag-summary-product-details.web.tc.tspp",
+                    "test > Nike > test-customs-clearance-mandatory-fields.web.tc.tspp",
+                    "test > Nike > test-navigate-mens-clothing-sidebar-filters.web.tc.tspp",
+                    "test > Nike > test-responsive-design-tablet.web.tc.tspp",
+                    "test > Nike > test-womens-clothing-navigation.web.tc.tspp",
+                    "test > Nike > test-add-to-favorites.web.tc.tspp",
+                    "test > Nike > test-product-quantity-selection.web.tc.tspp",
+                    "test > Nike > test-bag-summary-quantity-update.web.tc.tspp",
+                    "test > Nike > test-top-navigation-bar-checkout.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:43:24.334Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "f2a3f78b-5b76-490e-b834-ec3e5c93f906",
+                "status": "success",
+                "requestId": "53f4b4f7-f171-4043-8c5a-d9b7c3b1dde3"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:44:39.415Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "f2a3f78b-5b76-490e-b834-ec3e5c93f906",
+                "requestId": "53f4b4f7-f171-4043-8c5a-d9b7c3b1dde3",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-member-checkout-navigation.web.tc.tspp",
+                    "test > Nike > test-add-to-favorites.web.tc.tspp",
+                    "test > Nike > test-continue-shopping-navigation.web.tc.tspp",
+                    "test > Nike > test-product-selection-update.web.tc.tspp",
+                    "test > Nike > test-search-functionality.web.tc.tspp",
+                    "test > Nike > test-product-navigation.web.tc.tspp",
+                    "test > Nike > test-responsive-order-tracking.web.tc.tspp",
+                    "test > Nike > test-add-to-bag-function.web.tc.tspp",
+                    "test > Nike > test-sales-navigation.web.tc.tspp",
+                    "test > Nike > test-continue-shopping-button.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:45:17.705Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "93ff3d49-4384-44bc-a2a8-bfaf5d8698ad",
+                "status": "success",
+                "requestId": "98154c81-c525-46a2-a009-8650a2229f00"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:46:37.543Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "93ff3d49-4384-44bc-a2a8-bfaf5d8698ad",
+                "requestId": "98154c81-c525-46a2-a009-8650a2229f00",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-sort-by-newest.web.tc.tspp",
+                    "test > Nike > test-product-image-alt-text.web.tc.tspp",
+                    "test > Nike > test-add-to-favorites.web.tc.tspp",
+                    "test > Nike > test-search-functionality.web.tc.tspp",
+                    "test > Nike > test-remove-from-bag.web.tc.tspp",
+                    "test > Nike > test-kids-section-navigation.web.tc.tspp",
+                    "test > Nike > test-product-detail-add-to-bag.web.tc.tspp",
+                    "test > Nike > test-checkout-process-validation.web.tc.tspp",
+                    "test > Nike > test-search-functionality-accuracy.web.tc.tspp",
+                    "test > Nike > test-order-tracking-status-display.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:47:33.718Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "04550877-3729-4f52-b63c-2e329567caec",
+                "status": "error",
+                "requestId": "cd700ab1-583a-4e6b-88f6-92dd3266b1ec",
+                "message": "Something went wrong! Please try again."
+            }
+        },
+        {
+            "timestamp": "2024-11-20T08:49:13.701Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "5635a655-d299-4b7c-8252-cc167b800b5e",
+                "status": "error",
+                "requestId": "c3c7d2b8-9c3d-4d8b-b0af-26e9b446ac19",
+                "message": "Something went wrong! Please try again."
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:04:46.557Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "a66afb61-0b0e-4909-b7c5-2c41413ef7c4",
+                "status": "error",
+                "requestId": "c2014fd3-dff3-4ae0-a5b5-90a2f8a0df07",
+                "message": "Something went wrong! Please try again."
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:05:17.869Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [],
+                "generationId": "a66afb61-0b0e-4909-b7c5-2c41413ef7c4",
+                "requestId": "c2014fd3-dff3-4ae0-a5b5-90a2f8a0df07",
+                "numTestCases": 5,
+                "status": "error",
+                "message": "Something went wrong! Please try again.",
+                "files": [
+                    "test > Nike > test-invalid-email-format.web.tc.tspp",
+                    "test > Nike > test-alt-text-product-images.web.tc.tspp",
+                    "test > Nike > test-checkout-delivery-invalid-phone.web.tc.tspp",
+                    "test > Nike > test-login-prompt-redirection.web.tc.tspp",
+                    "test > Nike > test-bag-summary-quantity-update.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:06:11.097Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "73abba29-457f-433e-8a52-dfd144e3fffa",
+                "status": "error",
+                "requestId": "ce0c92be-54a9-4cf1-b408-5e182ed18a88",
+                "message": "No test cases generated since all cases are already covered bby the existing tests!!"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:06:39.250Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [],
+                "generationId": "73abba29-457f-433e-8a52-dfd144e3fffa",
+                "requestId": "ce0c92be-54a9-4cf1-b408-5e182ed18a88",
+                "numTestCases": 5,
+                "status": "error",
+                "message": "No test cases generated since all cases are already covered bby the existing tests!!",
+                "files": [
+                    "test > Nike > test-forgot-order-number.web.tc.tspp",
+                    "test > Nike > test-sign-in-prompt-navigation.web.tc.tspp",
+                    "test > Nike > test-size-guide-information.web.tc.tspp",
+                    "test > Nike > test-bag-summary-size-update.web.tc.tspp",
+                    "test > Nike > test-bag-summary-color-update.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:13:51.362Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "9d8b5c2a-e3c0-44f5-ae10-50c49944e9fe",
+                "status": "error",
+                "requestId": "f052f348-3982-42df-b272-5741dbf55818",
+                "message": "No test cases generated since all cases are already covered bby the existing tests!!"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:14:23.584Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [],
+                "generationId": "9d8b5c2a-e3c0-44f5-ae10-50c49944e9fe",
+                "requestId": "f052f348-3982-42df-b272-5741dbf55818",
+                "numTestCases": 5,
+                "status": "error",
+                "message": "No test cases generated since all cases are already covered bby the existing tests!!",
+                "files": [
+                    "test > Nike > test-order-number-validation.web.tc.tspp",
+                    "test > Nike > test-submit-button-enablement.web.tc.tspp",
+                    "test > Nike > test-product-size-selection.web.tc.tspp",
+                    "test > Nike > test-product-color-selection.web.tc.tspp",
+                    "test > Nike > test-update-quantity-subtotal.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:19:43.072Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "36134bcd-23c4-4ddb-9229-c9b5a8fdf483",
+                "status": "success",
+                "requestId": "e0e0cee6-ee05-4ea8-ae49-edcc01b3c968"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:20:41.751Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "36134bcd-23c4-4ddb-9229-c9b5a8fdf483",
+                "requestId": "e0e0cee6-ee05-4ea8-ae49-edcc01b3c968",
+                "status": "success",
+                "files": [
+                    "test > Nike > test-navigation-womens-section.web.tc.tspp",
+                    "test > Nike > test-size-guide-product-detail.web.tc.tspp",
+                    "test > Nike > test-invalid-email-error-message.web.tc.tspp",
+                    "test > Nike > test-bag-summary-color-update.web.tc.tspp",
+                    "test > Nike > test-continue-shopping-navigation.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-12-12T09:22:57.377Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "deepak"
+            },
+            "data": {
+                "generationId": "be3f282c-c677-4bfa-a00f-1b1c69333f10",
+                "status": "error",
+                "requestId": "0dfdabb1-5636-4c25-84d6-0f6cd26c3ae8",
+                "message": "Some error occured"
+            }
+        }
+    ]
+}

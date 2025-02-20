@@ -53,19 +53,745 @@
             "data": {}
         },
         {
-"timestamp": "2024-08-02T13:10:50.443Z",
+            "timestamp": "2024-08-02T13:10:50.443Z",
             "action": "GENERATE_TEST_CASE",
-"user": {
+            "user": {
                 "id": 1,
                 "email": "deepak@gmail.com",
-"name": "deepak"
-},
-"data": {
+                "name": "deepak"
+            },
+            "data": {
                 "generationId": "c2146a77-d444-4fef-ac8c-f03d6bf4e3e8",
                 "status": "error",
                 "requestId": "dc0b8eec-7cad-4a8e-bc5b-3edab8b7be80",
                 "message": "Some error occured"
             }
-}
+        },
+        {
+            "timestamp": "2024-11-18T11:52:05.771Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "eb5edf5c-aaf4-4fbd-88d2-c2cfcdb76ee4",
+                "status": "error",
+                "requestId": "d77d79cf-6eb5-402a-b2c4-a39040d8e374",
+                "message": "Error processing parameters"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T11:57:32.025Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "85420f16-8cd8-4d33-b651-dc7fc8e7b495",
+                "status": "error",
+                "requestId": "60d0f517-ac87-4f2e-8356-24036a1d3cb2",
+                "message": "Error processing parameters"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T11:58:11.349Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "aef2e005-0e55-4083-a482-9e09f2f1b310",
+                "status": "success",
+                "requestId": "3f3e4200-73f9-4a79-81b6-ed22e7f5571f"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T11:59:23.131Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "866282e7-bcfc-41d8-a386-7f3f5f1a0d87",
+                        "question": "Is there a limit to the number of items a user can add to the wishlist?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "f67e4c25-2786-4067-9eb2-0a04bb8249cc",
+                        "question": "How is the pagination controlled, and is there a maximum number of pages available?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "802ca76f-cf58-451b-8a71-09a2f1f6c87a",
+                        "question": "What should happen if a user tries to apply a filter or sorting option that results in no products being displayed?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "5d845aee-c42c-4f72-9788-811ce842b0b1",
+                        "question": "Can users filter and sort products simultaneously, and if so, what is the expected behavior?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d3a059b5-79a3-47e4-aae9-c0e004a4a65f",
+                        "question": "Are there any visual indicators or messages displayed when a user adds an item to their wishlist?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "aef2e005-0e55-4083-a482-9e09f2f1b310",
+                "requestId": "3f3e4200-73f9-4a79-81b6-ed22e7f5571f",
+                "status": "success",
+                "files": [
+                    "test > ImageTest > test-product-details-information.web.tc.tspp",
+                    "test > ImageTest > test-search-functionality.web.tc.tspp",
+                    "test > ImageTest > test-wishlist-addition-indication.web.tc.tspp",
+                    "test > ImageTest > test-cart-preview-information.web.tc.tspp",
+                    "test > ImageTest > test-responsive-design-mobile.web.tc.tspp",
+                    "test > ImageTest > test-filter-by-price.web.tc.tspp",
+                    "test > ImageTest > test-sort-low-to-high.web.tc.tspp",
+                    "test > ImageTest > test-pagination-navigation.web.tc.tspp",
+                    "test > ImageTest > test-add-to-wishlist.web.tc.tspp",
+                    "test > ImageTest > test-breadcrumbs.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:00:27.849Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "04b64adf-1b2c-4cf7-93be-bd49d835d26d",
+                "status": "success",
+                "requestId": "450e81c8-1164-40c0-ad58-33d0119cb14e"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:01:49.898Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "752903a3-8a09-4f5c-b93d-40d27817d69d",
+                        "question": "What is the expected behavior if a product color is selected that is out of stock?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "f5f29d20-4354-40fa-aeb9-08956d6ecb18",
+                        "question": "How should the website handle the display of a confirmation message after adding a product to the cart?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "27517a49-1661-4964-a349-4631cde92bfa",
+                        "question": "Should the quantity selector on the product details page allow for typing a quantity or only increment/decrement through provided controls?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "6c6998ca-09dc-4569-9f58-0b05e34cac97",
+                        "question": "Is there a maximum limit to the quantity that a user can select for a product?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "52fa9725-45d6-4c80-b6bc-437d937f56d6",
+                        "question": "Does the related products section dynamically update based on user behavior or is it static?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "01b1d0e4-b0e8-4d67-a943-a781bda1dcc1",
+                        "question": "Is the search functionality expected to return results across all categories or only within the currently selected category?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a420eb99-7f24-4c35-b2b1-8e8eeb3016b6",
+                        "question": "What should happen if a user tries to proceed to checkout with an empty cart?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a0b66998-3329-4893-8b2b-383b5fb0cb7d",
+                        "question": "Is there a limit to the number of items displayed per page in a category, and what is that limit?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d7e5ce64-7066-4373-9f66-94bbc0f06778",
+                        "question": "Should the shipping information form allow international addresses or only domestic?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "2b894c96-ece1-42cd-a299-edb2c8299200",
+                        "question": "Does the Wishlist functionality require the user to be logged in, or is it available for guest users as well?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "04b64adf-1b2c-4cf7-93be-bd49d835d26d",
+                "requestId": "450e81c8-1164-40c0-ad58-33d0119cb14e",
+                "status": "success",
+                "files": [
+                    "test > ImageTest > test-update-quantity-product-details.web.tc.tspp",
+                    "test > ImageTest > test-indication-added-to-cart.web.tc.tspp",
+                    "test > ImageTest > test-breadcrumb-navigation-home.web.tc.tspp",
+                    "test > ImageTest > test-color-selection-updates-image.web.tc.tspp",
+                    "test > ImageTest > test-related-product-navigation.web.tc.tspp",
+                    "test > ImageTest > test-search-electronics.web.tc.tspp",
+                    "test > ImageTest > test-checkout-as-guest.web.tc.tspp",
+                    "test > ImageTest > test-pagination-home-garden.web.tc.tspp",
+                    "test > ImageTest > test-edit-shipping-details.web.tc.tspp",
+                    "test > ImageTest > test-wishlist-functionality.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:07:20.265Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "30a2563f-9dd9-488a-a44d-83ab05882cd1",
+                "status": "error",
+                "requestId": "07698522-2ca6-4001-9ffd-e4506c17b9a4",
+                "message": "Error processing parameters"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:09:18.257Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "6a6e5ae2-2122-48bd-851a-a7a5cf6635cf",
+                "status": "error",
+                "requestId": "8c30130a-b596-4c4a-b404-8b1e9f836756",
+                "message": "Error processing parameters"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:10:15.158Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "00f4085a-fd04-44a0-8074-67df8c1384d3",
+                "status": "error",
+                "requestId": "82194f34-24d4-4abb-ad98-42712af44840",
+                "message": "Error processing parameters"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:11:42.458Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "689bc869-c4ac-49a3-9063-ae04f254ec91",
+                "status": "success",
+                "requestId": "ac5bf177-5eac-405a-8b97-aaaa416efa24"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:13:03.858Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "6bba9336-21de-4eed-a66f-ca6f72af6f68",
+                        "question": "How is popularity determined for sorting products?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "ca3afdec-dc62-4da2-a877-54095868211d",
+                        "question": "Are there any other subcategories under 'Fashion' that should be tested for display and navigation?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "e0809162-0258-4c6c-94ce-0f198c4b4b00",
+                        "question": "What constitutes a related product, and how is this decided?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "689bc869-c4ac-49a3-9063-ae04f254ec91",
+                "requestId": "ac5bf177-5eac-405a-8b97-aaaa416efa24",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:13:43.424Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "3f127f83-8fc0-404f-8964-249944c95560",
+                "status": "success",
+                "requestId": "d041807b-4b09-4a29-886d-0e8b647437c3"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:15:00.623Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "3f127f83-8fc0-404f-8964-249944c95560",
+                "requestId": "d041807b-4b09-4a29-886d-0e8b647437c3",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:15:11.638Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "df56088e-5a11-4a7f-bf8b-07e3ca8e0402",
+                "status": "success",
+                "requestId": "40ac83f8-8190-4584-b9ca-75cf4d0b87e9"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:16:33.408Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "002f4c68-b48d-4584-ac33-03ee3e0e1a0a",
+                        "question": "When filtering products by price, what should be the behavior if a product has multiple price options?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "b58f332d-a79a-4f4d-812c-134eca622679",
+                        "question": "How should the website handle displaying related products on the product details page if there are no related items available?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "f08e032e-0c14-4eb6-bf2a-7fad509a22ef",
+                        "question": "Should there be a limit to the quantity a user can select for a single item, and if so, what should that limit be?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "496dec25-8978-4928-8123-86e7b30c0d0f",
+                        "question": "What should happen if a user attempts to navigate to a category that does not exist or has been removed?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "fa3d26cc-30ca-4961-8d01-68a4c8347deb",
+                        "question": "In the search functionality, how should the website handle search terms that yield no results?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "df56088e-5a11-4a7f-bf8b-07e3ca8e0402",
+                "requestId": "40ac83f8-8190-4584-b9ca-75cf4d0b87e9",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:16:36.768Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "f788a880-0009-4f28-aeab-075ed1b1d0aa",
+                "status": "success",
+                "requestId": "bca0af5f-ef27-4432-a0e4-6c1adbc838ab"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:17:58.996Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "f788a880-0009-4f28-aeab-075ed1b1d0aa",
+                "requestId": "bca0af5f-ef27-4432-a0e4-6c1adbc838ab",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:19:30.236Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "204ed876-2e8e-490e-a180-9ba0d6d8f999",
+                "status": "success",
+                "requestId": "50fe8501-877a-4866-827b-63d0ad7e207c"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:19:59.276Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [
+                    {
+                        "id": "2ce7be13-6ad2-4d1b-987d-a813b0eb7c2a",
+                        "question": "What should happen if a search term yields no results in a given category?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "0685ecf4-9a06-4b8a-88f6-858154bc9557",
+                        "question": "How does the website handle adding a product to the cart when the same product with different options (e.g., size, color) is already in the cart?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "e003c458-6ab6-44ed-ab80-ca9bd10778b5",
+                        "question": "How are out-of-stock items handled in the sorting feature, especially when sorting by price?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "31f69a6e-a332-47d2-947b-0b67590f08f6",
+                        "question": "Is there a maximum limit to the cart count that can be displayed on the cart icon?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "3bd7dafb-96eb-41b2-9fba-23bc019dbd2e",
+                        "question": "What is the expected behavior when attempting to navigate to a previous page if the user is on the first page of product listings?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "204ed876-2e8e-490e-a180-9ba0d6d8f999",
+                "requestId": "50fe8501-877a-4866-827b-63d0ad7e207c",
+                "numTestCases": 5,
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:31:26.640Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "e80ab2fa-8c70-4e77-a7de-bd9051ed6038",
+                "status": "error",
+                "requestId": "960e00b8-e930-4157-b517-a525bffadae5",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:35:57.363Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "237dfd98-4d90-4236-bc33-cadf428c33fe",
+                "status": "error",
+                "requestId": "996258ca-3081-4ec0-9afa-4d703738ee10",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:41:55.708Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "577676a2-9a97-472e-b574-e495127489b3",
+                "status": "error",
+                "requestId": "ec233245-cc53-4169-adf0-9b446c2fc9ad",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:51:24.731Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "faa3043f-c585-4ac5-8028-10a42ac30bc9",
+                "status": "error",
+                "requestId": "56ec8ff2-20d1-4a40-b3d0-65b570082a0f",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:52:32.581Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "0a657a0a-bc9b-4b62-835d-131732207fa3",
+                "status": "success",
+                "requestId": "8f334547-6ed1-418d-92ad-34ca541bf1ce"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:54:03.737Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "d0286820-14b2-4861-bd8f-44758c5b062a",
+                        "question": "What is the expected behavior if a product is out of stock on the Product Details Page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "ce6798de-47b7-4e70-bc71-9cca1e5c41f6",
+                        "question": "Are there any limits to the number of items a user can add to the cart?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "4faaf24b-d713-4a3e-941c-61128b756e50",
+                        "question": "How should the system behave when applying filters if no products match the criteria?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "100d3d88-f43f-4be0-a68b-2093f87e3411",
+                        "question": "Should the infinite scrolling feature load all items at once or should it load more items as the user scrolls down?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "e37b85c7-6332-4f09-9461-6f925fd6adc4",
+                        "question": "What is the expected behavior when a user tries to remove an item from the cart and the internet connection is lost during the process?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "40d64b5a-fabb-4b3d-98af-e1516ae3041c",
+                        "question": "Is there a specific number of featured products that should be showcased on the homepage?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a8a280ae-754e-484d-957f-d569668d365d",
+                        "question": "What is the default sort order for the products when a category is first selected?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "b74ad5c3-413e-4c49-82a1-d249e2226f57",
+                        "question": "Are there any limitations on the number or type of filters that can be applied simultaneously?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a0f5fc13-9b97-40bc-a25b-10cba9892642",
+                        "question": "What should happen if a user tries to checkout with an empty cart?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "3257b481-4fd7-4d24-a03a-f59209c2ea2e",
+                        "question": "Are there any specific requirements for the search functionality in terms of minimum character length or special character handling?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "0a657a0a-bc9b-4b62-835d-131732207fa3",
+                "requestId": "8f334547-6ed1-418d-92ad-34ca541bf1ce",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:56:11.945Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "0e8aff2a-baf0-432c-b142-4ad8b4945880",
+                "status": "success",
+                "requestId": "438aa4d0-0bdb-472f-b7b1-0ce7aa6750c4"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T12:56:52.483Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [
+                    {
+                        "id": "cb1342a4-ce34-4667-b546-cd19081ae944",
+                        "question": "Is there a limit to the number of items a user can add to their cart or wishlist?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "5e4fa273-4813-42fd-9ef4-561e87918ca9",
+                        "question": "What should happen if a user tries to navigate to the checkout with an empty cart?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "fbadaef0-6a3c-41fa-af42-dfa6aa562374",
+                        "question": "Are there any specific error messages to be displayed when a payment fails?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "673dca62-18ae-499b-8d99-a2b1751d9158",
+                        "question": "How should the system handle the display of out-of-stock items in the product listings?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "8d59f9d7-5fcd-40a5-a46e-0d5fb0c168ca",
+                        "question": "Are there any user preferences that should be taken into account when filtering or sorting products?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "0e8aff2a-baf0-432c-b142-4ad8b4945880",
+                "requestId": "438aa4d0-0bdb-472f-b7b1-0ce7aa6750c4",
+                "numTestCases": 5,
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T13:01:43.637Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "3d27aeb9-3749-43b1-b584-8e09715584ce",
+                "status": "success",
+                "requestId": "09b09d5d-d2f9-4137-ab4c-bb01bd583293"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T13:04:04.555Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "3d27aeb9-3749-43b1-b584-8e09715584ce",
+                "requestId": "09b09d5d-d2f9-4137-ab4c-bb01bd583293",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T13:04:08.943Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "6929a71f-f8f5-450a-81a1-efd76ce1bc62",
+                "status": "success",
+                "requestId": "7f905409-3eb9-42e7-8319-e7650a8dc500"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T13:04:59.667Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "questions": [],
+                "generationId": "6929a71f-f8f5-450a-81a1-efd76ce1bc62",
+                "requestId": "7f905409-3eb9-42e7-8319-e7650a8dc500",
+                "numTestCases": 5,
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-18T13:25:58.796Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "e9ed70c6-f00e-4771-bd81-9549b9f19a80",
+                "status": "error",
+                "requestId": "31dfa5ce-4ed3-4061-9b92-eac9c9fce9e4",
+                "message": "Some error occured"
+            }
+        }
     ]
 }

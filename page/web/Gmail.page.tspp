@@ -1,8 +1,0 @@
->>summary: 
->>recorderName: Gmail
-
-==frame_38;CSS;:root > :nth-child(2) > :nth-child(5);;[CSS:iframe:nth-child(5)];[frame_38];[Gmail];==
-==frame_91;CSS;[sandbox];;[CSS:iframe:nth-child(3)];[frame_91];[Gmail];==
-==identifierId;CSS;#identifierId;Input;[CSS:[name='identifier']^^CSS:[aria-label='Email or phone']^^CSS:[type='email']];[identifierId];[Gmail];==
-==Dismiss;XPATH;//span[text()="Dismiss"];;[CSS:.VfPpkd-LgbsSe-OWXEXe-INsAgc .VfPpkd-vQzf8d^^CSS:button > span];[Dismiss];[Gmail];==
-==CouldntfindyourGoogleAccount;XPATH;//div[text()="Couldn’t find your Google Account"];;[];[CouldntfindyourGoogleAccount];[Gmail];==

@@ -1,0 +1,13 @@
+
+
+^^^^tspp_spec_start type:PLAIN_TEXT
+<div style="font-size: inherit;"><div style="text-align: start; text-decoration: none; color: rgb(0, 0, 0);"><h1>Profile Update</h1><h3>Profile Form</h3><ul><li>User can update:<ul><li>Full name (2-50 characters)</li><li>Email (valid format)</li><li>Phone number (10 digits)</li><li>Profile picture (.jpg/.png, max 2MB)</li></ul></li></ul><h3>Behavior</h3><ul><li>Form shows current user information pre-filled</li><li>User sees error messages for invalid inputs</li><li>User can preview selected profile picture</li><li>User receives success message after update</li></ul><h3>Error States</h3><ul><li>Shows validation errors before submission</li><li>Notifies if image is too large or wrong format</li><li>Allows user to retry if update fails</li></ul><h2>Definition of Done</h2><ul><li>User can successfully update all fields</li><li>Invalid inputs are properly blocked</li><li>Profile picture uploads and displays correctly</li><li>Changes persist after page refresh</li></ul></div><br><br></div>
+^^^^tspp_spec_end
+
+
+
+^^^^tspp_images_start
+[
+
+]
+^^^^tspp_images_end

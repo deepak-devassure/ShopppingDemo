@@ -1,7 +1,0 @@
->>summary: 
->>recorderName: BestJobSearchinIndia|VacanciesforJobseekers|YourTribe
-
-==YourTribeLogo;CSS;.logo-mobile;;[CSS:a > img:nth-child(2)];[YourTribeLogo];[BestJobSearchinIndia|VacanciesforJobseekers|YourTribe];==
-==FindYourTribe;CSS;h1;;[XPATH://h1[text()="Find Your Tribe!"]];[FindYourTribe];[BestJobSearchinIndia|VacanciesforJobseekers|YourTribe];==
-==FindaCompany;CSS;.nav [href='\#findcompany'];Link;[CSS:li:nth-child(2) > a];[FindaCompany];[BestJobSearchinIndia|VacanciesforJobseekers|YourTribe];==
-==tabpaneactivesearch;CSS;.tab-pane.active .search;Input;[CSS:div:nth-child(4) > div:nth-child(1) > input];[tabpaneactivesearch];[BestJobSearchinIndia|VacanciesforJobseekers|YourTribe];==

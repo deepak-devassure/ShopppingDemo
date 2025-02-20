@@ -29,6 +29,11 @@
                 "name": "new_var",
                 "type": "text",
                 "value": "njhsfj"
+            },
+            {
+                "name": "login_url",
+                "type": "url",
+                "value": "https://localhost:3000/login"
             }
         ]
     },

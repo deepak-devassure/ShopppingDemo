@@ -1,0 +1,351 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-11-20T09:29:54.714Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T09:30:04.782Z",
+            "action": "UPDATED_MOCKUP",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T09:30:08.389Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-11-20T09:30:10.128Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "7121b76f-f22a-49d1-93ef-c47ed5b7acad",
+                "status": "success",
+                "requestId": "b986984f-b897-4902-bf5c-cb69360a8916"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:31:19.086Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "bccea253-8689-4aa5-9842-2d8c62245916",
+                        "question": "What are the exact permissions required for a Manager to view their team's OKRs?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "05bb165c-eda7-42a9-bae4-b23ccb4ab08c",
+                        "question": "Is there a confirmation step or undo option after an Employee updates their OKR status?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "7fc891fd-99f8-4f00-8502-57af301e2168",
+                        "question": "Which SSO providers are supported for the sign-in process?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "fc664284-3271-484a-9a79-49625b5d6fb9",
+                        "question": "What kind of confirmation is expected after scheduling a demo, an on-screen message, email confirmation, or both?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "6823dcd1-3651-4fee-bf83-10c57122d546",
+                        "question": "Are there any specific business rules for the 5-point rating scale, such as not allowing decimals or requiring comments for certain ratings?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "7121b76f-f22a-49d1-93ef-c47ed5b7acad",
+                "requestId": "b986984f-b897-4902-bf5c-cb69360a8916",
+                "status": "success",
+                "files": [
+                    "test > profitco > test-monitor-renewal-rate.web.tc.tspp",
+                    "test > profitco > test-set-measurable-targets.web.tc.tspp",
+                    "test > profitco > test-view-individual-performance.web.tc.tspp",
+                    "test > profitco > test-view-help-documentation.web.tc.tspp",
+                    "test > profitco > test-track-follower-growth.web.tc.tspp",
+                    "test > profitco > test-view-team-okr-progress.web.tc.tspp",
+                    "test > profitco > test-employee-update-okr-status.web.tc.tspp",
+                    "test > profitco > test-sso-sign-in.web.tc.tspp",
+                    "test > profitco > test-schedule-demo.web.tc.tspp",
+                    "test > profitco > test-annual-performance-review.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:31:33.308Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "8db289d2-c41b-4c26-b9fa-9f01570e21b6",
+                "status": "success",
+                "requestId": "849b5c4a-d74a-473e-a96b-cad9bb0b93b3"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:32:44.812Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "8db289d2-c41b-4c26-b9fa-9f01570e21b6",
+                "requestId": "849b5c4a-d74a-473e-a96b-cad9bb0b93b3",
+                "status": "success",
+                "files": [
+                    "test > profitco > test-employee-access-review-feedback.web.tc.tspp",
+                    "test > profitco > test-manager-monitor-acquisition-metrics.web.tc.tspp",
+                    "test > profitco > test-track-follower-growth-progress.web.tc.tspp",
+                    "test > profitco > test-sso-sign-in-functionality.web.tc.tspp",
+                    "test > profitco > test-navigate-resources-access-support-material.web.tc.tspp",
+                    "test > profitco > test-view-get-started-guide.web.tc.tspp",
+                    "test > profitco > test-submit-contact-us-form.web.tc.tspp",
+                    "test > profitco > test-view-performance-videos.web.tc.tspp",
+                    "test > profitco > test-sign-in-with-email.web.tc.tspp",
+                    "test > profitco > test-search-help-articles.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:33:12.375Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "10208e0d-cd62-4fdc-a4db-922e2dd94f1b",
+                "status": "success",
+                "requestId": "0366017c-7e6c-4cc4-ad46-96314cd63f57"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:33:59.080Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "10208e0d-cd62-4fdc-a4db-922e2dd94f1b",
+                "requestId": "0366017c-7e6c-4cc4-ad46-96314cd63f57",
+                "status": "success",
+                "files": [
+                    "test > profitco > test-access-get-started-guide.web.tc.tspp",
+                    "test > profitco > test-feedback-form-submission.web.tc.tspp",
+                    "test > profitco > test-view-sort-team-performance.web.tc.tspp",
+                    "test > profitco > test-sign-out-functionality.web.tc.tspp",
+                    "test > profitco > test-renewal-rate-metrics.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:34:05.165Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "a6d1ce63-a75d-4da2-8e0c-140ed26ae317",
+                "status": "success",
+                "requestId": "60202d53-7eaf-484f-b883-c60949b1c31c"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:35:29.398Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "a6d1ce63-a75d-4da2-8e0c-140ed26ae317",
+                "requestId": "60202d53-7eaf-484f-b883-c60949b1c31c",
+                "status": "success",
+                "files": [
+                    "test > profitco > test-employee-view-okr-progress-bars.web.tc.tspp",
+                    "test > profitco > test-employee-set-measurable-targets.web.tc.tspp",
+                    "test > profitco > test-manager-conduct-performance-review.web.tc.tspp",
+                    "test > profitco > test-sso-sign-in-options.web.tc.tspp",
+                    "test > profitco > test-schedule-demo-confirmation.web.tc.tspp",
+                    "test > profitco > test-view-renewal-rate-metrics.web.tc.tspp",
+                    "test > profitco > test-employee-review-feedback.web.tc.tspp",
+                    "test > profitco > test-access-help-documentation.web.tc.tspp",
+                    "test > profitco > test-sign-out-function.web.tc.tspp",
+                    "test > profitco > test-individual-performance-scores.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:35:53.556Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "08682444-083a-442f-ac9a-e9cd7e80f6e3",
+                "status": "success",
+                "requestId": "f378caa2-a08c-49ef-82bc-1b9f19032cd4"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:37:20.518Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "08682444-083a-442f-ac9a-e9cd7e80f6e3",
+                "requestId": "f378caa2-a08c-49ef-82bc-1b9f19032cd4",
+                "status": "success",
+                "files": [
+                    "test > profitco > test-monitor-renewal-rates.web.tc.tspp",
+                    "test > profitco > test-set-follower-growth-targets.web.tc.tspp",
+                    "test > profitco > test-okr-tracking-completion-rate.web.tc.tspp",
+                    "test > profitco > test-employee-view-help-docs.web.tc.tspp",
+                    "test > profitco > test-employee-view-manager-rating.web.tc.tspp",
+                    "test > profitco > test-update-renewal-rate-metrics.web.tc.tspp",
+                    "test > profitco > test-track-individual-performance.web.tc.tspp",
+                    "test > profitco > test-employee-submit-feedback.web.tc.tspp",
+                    "test > profitco > test-navigate-get-started-guide.web.tc.tspp",
+                    "test > profitco > test-contact-us-form-function.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:37:23.281Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "a1ccf820-b850-4f05-be01-f83d204c0c07",
+                "status": "success",
+                "requestId": "94d1c36c-8de7-48dc-a636-342fcf75305b"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:37:42.116Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 0,
+                "questions": [],
+                "generationId": "a1ccf820-b850-4f05-be01-f83d204c0c07",
+                "requestId": "94d1c36c-8de7-48dc-a636-342fcf75305b",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:37:46.464Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "972c40df-f16a-4ab4-a500-b48c7a59f308",
+                "status": "generating",
+                "requestId": "edfb5599-774b-4bf7-a16c-70b119d307ea"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:40:18.521Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "c3e72df8-6192-4a96-a196-0b38d44e06a2",
+                "status": "success",
+                "requestId": "f5fe5346-2540-4cb4-824e-8264d9b2f5b3"
+            }
+        },
+        {
+            "timestamp": "2024-11-20T09:41:37.387Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "c3e72df8-6192-4a96-a196-0b38d44e06a2",
+                "requestId": "f5fe5346-2540-4cb4-824e-8264d9b2f5b3",
+                "status": "success",
+                "files": [
+                    "test > profitco > test-okr-status-update-progress-display.web.tc.tspp",
+                    "test > profitco > test-performance-score-sorting.web.tc.tspp",
+                    "test > profitco > test-set-new-follower-growth-target.web.tc.tspp",
+                    "test > profitco > test-search-help-topics.web.tc.tspp",
+                    "test > profitco > test-review-feedback-accessibility.web.tc.tspp",
+                    "test > profitco > test-user-acquisition-tracking.web.tc.tspp",
+                    "test > profitco > test-access-help-documentation.web.tc.tspp",
+                    "test > profitco > test-verify-progress-bars.web.tc.tspp",
+                    "test > profitco > test-employee-performance-history.web.tc.tspp",
+                    "test > profitco > test-schedule-demo-functionality.web.tc.tspp"
+                ]
+            }
+        }
+    ]
+}

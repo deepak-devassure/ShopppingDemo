@@ -21,6 +21,460 @@
             "data": {
                 "numTestCases": 18
             }
+        },
+        {
+            "timestamp": "2024-11-19T06:09:36.219Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "0a9a320d-8837-44ae-b26d-e3ee0ac3d56f",
+                "status": "error",
+                "requestId": "9cec9ea6-b1db-4382-a765-681fbb4274b1",
+                "message": "Some error occured"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:09:47.848Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "ede83b5a-1e4d-44aa-b9ba-fb86a2b951f5",
+                "status": "success",
+                "requestId": "c689ffbc-7f17-4bca-9654-c63cea0672f2"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:10:59.589Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "ede83b5a-1e4d-44aa-b9ba-fb86a2b951f5",
+                "requestId": "c689ffbc-7f17-4bca-9654-c63cea0672f2",
+                "status": "success",
+                "files": [
+                    "test > UserPage > test-add-members-button.web.tc.tspp",
+                    "test > UserPage > test-cancel-invitation-process.web.tc.tspp",
+                    "test > UserPage > test-remove-user-invitation.web.tc.tspp",
+                    "test > UserPage > test-search-user-by-name.web.tc.tspp",
+                    "test > UserPage > test-access-more-options.web.tc.tspp",
+                    "test > UserPage > test-access-users-page.web.tc.tspp",
+                    "test > UserPage > test-filter-users-by-role.web.tc.tspp",
+                    "test > UserPage > test-sort-users-by-name.web.tc.tspp",
+                    "test > UserPage > test-sort-users-by-license.web.tc.tspp",
+                    "test > UserPage > test-users-pagination.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:11:06.213Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "9b004356-103c-48b3-95b5-7ffd39fc9a30",
+                "status": "success",
+                "requestId": "9ba713b4-27a6-4eef-bca7-c4a0426a8f8f"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:12:14.656Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "bbdc92ce-67fc-4c4c-81dd-d8fdd71bd114",
+                        "question": "Is there a specific time frame after which an 'Invited' status should automatically change if the user does not accept the invitation?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "b8c57797-0b8c-4643-9dfc-a487ef6c8d0b",
+                        "question": "What should be the behavior when an Admin attempts to 'Cancel Invitation' for a user who has already accepted the invitation?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "f6851ec2-ecc8-4554-96fb-191006acd542",
+                        "question": "What are the exact criteria to be used when sorting by name (e.g., first name, last name, case sensitivity)?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "f978e2b5-c95a-4992-a07e-931336a01733",
+                        "question": "Should the search functionality also match partial names or only exact full names?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "f250d46b-9dda-4497-9b12-4f6ae4315afd",
+                        "question": "Can an Admin user have their own role changed to Member by another Admin, and what is the expected system behavior in that case?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "9b004356-103c-48b3-95b5-7ffd39fc9a30",
+                "requestId": "9ba713b4-27a6-4eef-bca7-c4a0426a8f8f",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:12:22.191Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "f6cadd34-9cd0-46cf-9f9e-3bd5302483e9",
+                "status": "success",
+                "requestId": "c27167b0-c997-437c-b7eb-4e36a4f9c54c"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:13:35.189Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "f6cadd34-9cd0-46cf-9f9e-3bd5302483e9",
+                "requestId": "c27167b0-c997-437c-b7eb-4e36a4f9c54c",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:13:40.899Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "72ef1c5b-1d4b-4c5e-b6c0-a8137788b333",
+                "status": "success",
+                "requestId": "b762c36b-8be2-47f8-a247-df6d394ae2b0"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:14:44.604Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "b6301adb-f836-4d9b-a0e7-22046d809235",
+                        "question": "What is the expected behavior when an Admin attempts to sort the users list by Name when users have identical names?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "64e87cea-0115-40ad-93ab-e17387c8c441",
+                        "question": "Is there a confirmation step or prompt when an Admin attempts to cancel a pending user addition?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "2127f03d-e545-4f10-93a3-23145bd35aa8",
+                        "question": "How should the system behave if the search functionality is used with a string that does not match any users?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "627b9735-3cc2-41f4-bf2e-665694c2d587",
+                        "question": "Are there any character limitations or validation rules for the search feature on the Users page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "61209768-a6db-42f7-a928-ffbba5a3d5b4",
+                        "question": "What feedback should the Admin receive after successfully filtering users by status?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "72ef1c5b-1d4b-4c5e-b6c0-a8137788b333",
+                "requestId": "b762c36b-8be2-47f8-a247-df6d394ae2b0",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:15:27.468Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "901558dd-53c9-4c58-954a-ece87751f057",
+                "status": "success",
+                "requestId": "c78f9126-22b8-4d24-8d88-f6db4909c6c5"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:16:32.526Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "901558dd-53c9-4c58-954a-ece87751f057",
+                "requestId": "c78f9126-22b8-4d24-8d88-f6db4909c6c5",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:16:39.008Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "850514dd-98d0-4637-88cc-4df96525d6fb",
+                "status": "success",
+                "requestId": "b69448f9-b057-42e5-9fc7-d0ed4e0c9d9b"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T06:17:55.990Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [
+                    {
+                        "id": "854a94c0-c40f-4830-ac8e-7b216303a291",
+                        "question": "Is there a specific error message to be displayed for invalid email format during user invitation?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d54c018b-6ed9-4e98-9cf8-69267ef27ecb",
+                        "question": "What are the criteria for an email to be considered valid for invitations?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "ea5db26f-6ead-4cdd-8a5f-3023d33f4ca1",
+                        "question": "How should the application behave if an Admin tries to make another Admin a Member when they are the only Admins?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "4dccd140-b8fa-40b5-a3f0-6500db82e690",
+                        "question": "Should the 'Make Member' option be visible or hidden for users who are currently Admins?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "ce8a6c35-d03a-4a77-90e4-3ebb484306c9",
+                        "question": "Is the 'Assign IDE License' option available for users with any specific statuses other than 'Active'?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "36fe5dd4-bef4-436b-8a13-ea6fe0a85f90",
+                        "question": "Is there a visual indication or confirmation message displayed after changing a user's role to Admin or Member?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "8da0a689-338d-4d3b-b2a9-74724838dc86",
+                        "question": "What are the rules for assigning IDE Licenses to users with statuses other than 'Active'?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "d5e59f72-d423-4fc9-bc4d-69c0c6012c2a",
+                        "question": "Should the 'Assign IDE License' option be hidden or disabled for users who are not 'Active'?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "a2626339-2815-46c3-868d-bf7c424f37c4",
+                        "question": "Is there a confirmation message or visual indication when a filter is applied on the Users page?",
+                        "status": "not-attempted"
+                    },
+                    {
+                        "id": "1e0ea2a8-bccc-4e9d-8080-84aba43750e6",
+                        "question": "Are there any other statuses besides 'Active', 'Invited', and 'Pending' that should be included in the filters?",
+                        "status": "not-attempted"
+                    }
+                ],
+                "generationId": "850514dd-98d0-4637-88cc-4df96525d6fb",
+                "requestId": "b69448f9-b057-42e5-9fc7-d0ed4e0c9d9b",
+                "status": "success",
+                "files": [
+                    "test > UserPage > test-non-admin-invite-restriction.web.tc.tspp",
+                    "test > UserPage > test-admin-revoke-admin-privileges.web.tc.tspp",
+                    "test > UserPage > test-admin-filter-pending-users.web.tc.tspp",
+                    "test > UserPage > test-invalid-email-invite.web.tc.tspp",
+                    "test > UserPage > test-cancel-invite-process.web.tc.tspp",
+                    "test > UserPage > test-change-member-to-admin-and-back.web.tc.tspp",
+                    "test > UserPage > test-filter-users-by-active-status.web.tc.tspp",
+                    "test > UserPage > test-prevent-license-assignment-to-inactive-users.web.tc.tspp",
+                    "test > UserPage > test-filter-users-by-invited-status.web.tc.tspp",
+                    "test > UserPage > test-filter-users-by-pending-status.web.tc.tspp"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:12:09.137Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "4d872c78-41cb-479a-8ded-9ff02b832c3e",
+                "status": "generating",
+                "requestId": "67b42a1d-1d18-432f-8b93-54d706bba239"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:13:42.573Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "4ce00d2d-26d2-420d-9252-66e329994ea0",
+                "status": "generating",
+                "requestId": "2fe63aad-a3ea-4d2b-a2ed-4b2487d015c7"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:14:15.831Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "7e2dc472-7c64-41e0-b504-890bac03199e",
+                "status": "generating",
+                "requestId": "d2cb0a5a-8f26-44d4-b662-9b789f1b7231"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:26:33.669Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "bab109aa-285b-49e0-b93c-e01c23eac65c",
+                "status": "success",
+                "requestId": "144efab4-9492-4347-89d6-33b8c9cb8da3"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:27:58.639Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "bab109aa-285b-49e0-b93c-e01c23eac65c",
+                "requestId": "144efab4-9492-4347-89d6-33b8c9cb8da3",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:28:05.697Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "7ddd8eca-eb59-4fa1-a886-834f0e43bda9",
+                "status": "success",
+                "requestId": "ae999d1f-6110-4ade-8386-d3e47b425cc5"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:29:26.526Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "7ddd8eca-eb59-4fa1-a886-834f0e43bda9",
+                "requestId": "ae999d1f-6110-4ade-8386-d3e47b425cc5",
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:29:45.683Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "generationId": "6fdb7ab9-7590-40a1-b7b4-a18a646bd226",
+                "status": "success",
+                "requestId": "ca613d41-3226-4d94-9a61-8af9c2bc7e61"
+            }
+        },
+        {
+            "timestamp": "2024-11-19T12:31:13.091Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "6fdb7ab9-7590-40a1-b7b4-a18a646bd226",
+                "requestId": "ca613d41-3226-4d94-9a61-8af9c2bc7e61",
+                "status": "success"
+            }
         }
     ]
 }
