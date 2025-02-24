@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify that an Admin can access the Users page
+>>tags: 
+>>feature: UserPage
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the Users page --> Verify that the Users page is displayed
+^^
+
+

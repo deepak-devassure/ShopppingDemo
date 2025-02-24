@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that a user can edit the name of an existing project
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Navigate to the 'Projects' section in the sidebar
+Click on an existing project card
+Click on the project name field
+Clear the existing project name
+Enter a new project name (Value: Updated Project Name)
+Click on the 'Save' button --> Verify that the project card now displays the new project name (Value: Updated Project Name)
+^^
+
+

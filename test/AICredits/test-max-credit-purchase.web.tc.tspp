@@ -1,0 +1,23 @@
+>>testDataType: undefined
+>>summary: Verify the maximum credit purchase
+>>tags: 
+>>feature: AICredits
+
+
+^^detailed_steps
+Navigate to 'Add Credits' section
+Select '50' from the credit purchase dropdown --> Verify that the total credits to be purchased display '50000'
+Click on 'Buy' --> Verify the transaction completion message
+ --> Verify the user's credit balance is increased by 50000
+^^
+
+--Open URL-- [[https://app.devassure.io/]] 
+--Click on-- {{web > DevAssure > userEmail}} 
+--Input value-- [[santhosh@devassure.io]] --in-- {{web > DevAssure > userEmail}} 
+--Click on-- {{web > DevAssure > TextField15}} 
+--Input value-- [[Sandy123]] --in-- {{web > DevAssure > TextField15}} 
+--Click on-- {{web > DevAssure > LogIn}} 
+--Click on-- {{web > DevAssure > Subscription}} 
+--Click on-- {{web > DevAssure > _20}} 
+--Verify if text of-- {{web > EverShop > ADDTOCART_2}} --is equal to-- [[50]] 
+

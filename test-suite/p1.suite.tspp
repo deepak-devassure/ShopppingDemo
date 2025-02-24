@@ -1,0 +1,13 @@
+{
+    "tags": [
+        [
+            "apply_promo"
+        ]
+    ],
+    "additionalTests": [],
+    "priority": [],
+    "testType": "web",
+    "features": [
+        "ImageTest"
+    ]
+}

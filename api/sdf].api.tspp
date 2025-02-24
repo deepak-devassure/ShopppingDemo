@@ -1,0 +1,15 @@
+
+
+^^srefesr(arg1:text)
+{
+    "method": "GET",
+    "baseUrl": "",
+    "path": "",
+    "request": {
+        "body": {
+            "data": "{\n\"type\": \"json\"\n}",
+            "type": "json"
+        }
+    }
+}
+^^

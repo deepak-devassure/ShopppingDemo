@@ -1,0 +1,25 @@
+{
+    "ignoreLocators": {
+        "innerText": false,
+        "attributes": [
+            "placeholder"
+        ],
+        "cssRegex": [
+            "\\[data-.*\\]$"
+        ],
+        "id": true,
+        "tagName": false
+    },
+    "preferredLocators": {
+        "innerText": false,
+        "tagName": false,
+        "id": false,
+        "attributes": [
+            "title",
+            "data-automationid"
+        ],
+        "cssRegex": [
+            "#.*"
+        ]
+    }
+}

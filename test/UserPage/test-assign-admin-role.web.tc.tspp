@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Ensure Admin can assign admin role to an existing user
+>>tags: 
+>>feature: UserPage
+
+
+^^detailed_steps
+Log in with an Admin account
+Navigate to the Users page
+Click on the options (...) button next to a user
+Select 'Make Admin' from the dropdown --> Verify that the user's role is updated to Admin
+^^
+
+

@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that user can remove an item from the cart
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Add an item to the cart
+Click on the cart icon
+Click 'Remove' for an item --> Verify that the item is removed from the cart
+ --> Verify that the cart count is decremented by 1
+^^
+
+

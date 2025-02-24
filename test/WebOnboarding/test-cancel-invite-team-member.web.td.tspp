@@ -1,0 +1,18 @@
+{
+    "columns": [
+        {
+            "type": "text",
+            "name": "xyz"
+        },
+        {
+            "type": "text",
+            "name": "yzx"
+        }
+    ],
+    "rows": [
+        [
+            "dsf",
+            "asfasfa"
+        ]
+    ]
+}

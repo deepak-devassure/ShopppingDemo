@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that user can navigate to checkout from the cart
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Add an item to the cart
+Click on the cart icon
+Click on 'CHECKOUT' --> Verify that the checkout page is displayed
+^^
+
+

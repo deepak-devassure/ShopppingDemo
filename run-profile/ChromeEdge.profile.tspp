@@ -1,0 +1,28 @@
+{
+    "runLocation": "LOCAL",
+    "desktopOsProfiles": [
+        {
+            "os": "LOCAL",
+            "browserProfiles": [
+                {
+                    "browser": "EDGE",
+                    "viewProfiles": [
+                        {
+                            "resolution": {
+                                "x": 1080,
+                                "y": 720
+                            }
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "browser": "SAFARI",
+                    "viewProfiles": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+>>summary: DevAssure web app
+
+^^^^tspp_spec_start type:PLAIN_TEXT
+<div style="font-size: inherit;">Some of the features in web app:</div><div style="font-size: inherit;"><ol><li><span>Create organization</span></li><li><span>Create Projects</span></li><li><span>Edit project</span></li><li><span>Invite team members</span></li><li><span>Manage team members</span></li></ol></div>
+^^^^tspp_spec_end
+
+
+
+^^^^tspp_images_start
+[
+{"type":"file","link":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a6646ed7-ec30-49d8-aae0-9d164a2de4c4","integrationType":"FIGMA","imageId":"3082:1676","parentId":"whO9cbln3WQsxLACUYjIOo"},
+{"type":"file","link":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/abdffddd-5b00-4398-9445-aebbb93e0e70","integrationType":"FIGMA","imageId":"627:1169","parentId":"whO9cbln3WQsxLACUYjIOo"},
+{"type":"file","link":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a1e075a6-a29e-4b8c-98b9-b7729f37d396","integrationType":"FIGMA","imageId":"624:1010","parentId":"whO9cbln3WQsxLACUYjIOo"},
+{"type":"file","link":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3850246e-af12-409b-8a5b-95b2adea35ca","integrationType":"FIGMA","imageId":"612:753","parentId":"whO9cbln3WQsxLACUYjIOo"},
+{"type":"file","link":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4747c06e-0b11-49c3-98f3-75e97c615b39","integrationType":"FIGMA","imageId":"618:1372","parentId":"whO9cbln3WQsxLACUYjIOo"},
+{"type":"file","link":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/666ffca6-b8d9-4883-9085-17f02c9ccab1","integrationType":"FIGMA","imageId":"616:1262","parentId":"whO9cbln3WQsxLACUYjIOo"}
+]
+^^^^tspp_images_end

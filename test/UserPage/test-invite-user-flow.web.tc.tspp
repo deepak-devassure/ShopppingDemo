@@ -1,0 +1,18 @@
+>>testDataType: undefined
+>>summary: Verify that the invitation flow for new users is functional
+>>tags: user
+>>feature: UserPage
+
+
+^^detailed_steps
+Login as an Admin
+Navigate to Users page
+Click on 'Add Members' button
+Enter the email address (Value: user@example.com) in the invite field
+Click 'Invite' button --> Verify that the invitation is sent to the provided email address
+^^
+
+--Open URL-- [[http://localhost:3000/login]] 
+__web > Devassure > Login1__ [[santhosh]] 
+#--Click on-- {{web > Devassure > Somethingwentwrong}} 
+

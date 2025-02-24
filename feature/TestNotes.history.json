@@ -1,0 +1,29 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-07-16T09:14:38.699Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "Deepak V"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-08-05T08:13:52.584Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "deepak@gmail.com",
+                "name": "deepak"
+            },
+            "data": {
+                "generationId": "47e82744-1fdc-4cc6-9714-9a0f9537472c",
+                "status": "error",
+                "requestId": "66293677-6604-40f8-a7e3-9a32944ea50e",
+                "message": "Some error occured"
+            }
+        }
+    ]
+}

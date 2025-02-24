@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify if user can navigate to 'Create your first project' page from the dashboard
+>>tags: 
+>>feature: WebOnboarding
+
+
+^^detailed_steps
+Log in to the web application with valid credentials
+From the dashboard, click on the 'Projects' tab --> Verify that the 'Create your first project' page is displayed
+^^
+
+

@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that an Admin can reactivate a deactivated user
+>>tags: 
+>>feature: UserPage
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the Users page
+Click on the options ('...') button next to an inactive user
+Select 'Reactivate' from the dropdown menu --> Verify that the user's status is updated to 'Active'
+^^
+
+

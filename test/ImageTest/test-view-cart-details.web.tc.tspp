@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that user can view the cart with the item details
+>>tags: 
+>>feature: ImageTest
+
+
+^^detailed_steps
+Add an item to the cart
+Click on the cart icon --> Verify that the cart page is displayed
+ --> Verify that the added item is listed with its details
+^^
+
+

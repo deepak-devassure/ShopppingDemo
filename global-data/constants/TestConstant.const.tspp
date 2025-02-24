@@ -1,0 +1,64 @@
+[
+    {
+        "environments": [
+            "default"
+        ],
+        "isDefault": true,
+        "constants": [
+            {
+                "name": "Test",
+                "type": "text",
+                "value": "one"
+            },
+            {
+                "name": "Test2",
+                "type": "number",
+                "value": "1"
+            },
+            {
+                "name": "username",
+                "type": "text",
+                "value": "santhosh@"
+            },
+            {
+                "name": "password",
+                "type": "text",
+                "value": "pass"
+            },
+            {
+                "name": "new_var",
+                "type": "text",
+                "value": "njhsfj"
+            }
+        ]
+    },
+    {
+        "environments": [
+            "UAT",
+            "Production"
+        ],
+        "constants": [
+            {
+                "name": "Test",
+                "type": "text",
+                "value": "two"
+            },
+            {
+                "name": "username",
+                "type": "text",
+                "value": "user123"
+            },
+            {
+                "name": "demo",
+                "type": "text",
+                "value": "demo"
+            },
+            {
+                "name": "test",
+                "type": "url",
+                "value": "https://github.com"
+            }
+        ],
+        "isDefault": false
+    }
+]

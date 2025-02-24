@@ -1,0 +1,12 @@
+{
+    "web > STRUTTERSHOES": [
+        "web > EverShop",
+        "web > Shoppingcart"
+    ],
+    "web > EverShop": [
+        "web > Men"
+    ],
+    "web > Men": [
+        "web > Shoppingcart"
+    ]
+}

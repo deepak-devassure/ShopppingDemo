@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify the user can add the maximum allowed AI credits to their account
+>>tags: 
+>>feature: AICredits
+
+
+^^detailed_steps
+Navigate to the AI Credits Top Up section
+Select the maximum purchase option of 50 units from the drop-down
+Click on the Buy button --> Verify the confirmation message for successful purchase of 50,000 credits is displayed
+ --> Verify the user's credit balance is increased by 50,000 credits
+^^
+
+

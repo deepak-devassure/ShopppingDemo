@@ -1,0 +1,39 @@
+[
+    {
+        "environments": [
+            "default"
+        ],
+        "isDefault": true,
+        "type": "TABLE",
+        "dataConfig": {
+            "columns": [
+                {
+                    "type": "text",
+                    "name": "username"
+                },
+                {
+                    "type": "text",
+                    "name": "password"
+                }
+            ],
+            "rows": [
+                [
+                    "one",
+                    "1"
+                ],
+                [
+                    "two",
+                    "2"
+                ]
+            ]
+        }
+    },
+    {
+        "environments": [
+            "UAT"
+        ],
+        "isDefault": false,
+        "type": "CSV",
+        "dataConfig": {}
+    }
+]

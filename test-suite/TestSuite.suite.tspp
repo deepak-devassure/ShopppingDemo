@@ -1,0 +1,10 @@
+{
+    "testType": "web",
+    "additionalTests": [],
+    "tags": [
+        [
+            "NIAM-001"
+        ]
+    ],
+    "priority": []
+}

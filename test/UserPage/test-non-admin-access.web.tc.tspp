@@ -1,0 +1,41 @@
+>>testDataType: undefined
+>>summary: Ensure non-admin cannot view Users page
+>>tags: 
+>>feature: UserPage
+
+
+^^detailed_steps
+Log in with a non-admin user account
+Attempt to navigate to the Users page --> Verify that access to the Users page is denied
+^^
+
+--Open URL-- [[https://www.yourtribe.io/]] 
+--Click on-- {{web > BestJobSearchinIndia_VacanciesforJobseekers_YourTribe > YourTribeLogo}} 
+--Click on-- {{web > BestJobSearchinIndia_VacanciesforJobseekers_YourTribe > FindYourTribe}} 
+--Click on-- {{web > BestJobSearchinIndia_VacanciesforJobseekers_YourTribe > FindaCompany}} 
+--Click on-- {{web > BestJobSearchinIndia_VacanciesforJobseekers_YourTribe > tabpaneactivesearch}} 
+--Input value-- [[devassure]] --in-- {{web > BestJobSearchinIndia_VacanciesforJobseekers_YourTribe > tabpaneactivesearch}} 
+--Press keyboard keys-- [[Enter]] --on-- {{web > BestJobSearchinIndia_VacanciesforJobseekers_YourTribe > tabpaneactivesearch}} 
+--Click on-- {{web > DiscovertopStartups_CompaniesHiringInIndia_YourTribe > ViewMore}} 
+--Click on-- {{YourTribe > ReadMore}} 
+--Click on-- {{YourTribe > ReadMore}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > ClaimThisPage}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > FullName}} 
+--Input value-- [[Santhoshkumar]] --in-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > FullName}} 
+--Press keyboard keys-- [[Tab]] --on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > FullName}} 
+--Press keyboard keys-- [[Shift]] --on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > css1hac4vsdummyInput}} 
+--Press keyboard keys-- [[Tab]] --on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > css1hac4vsdummyInput}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > FullName}} 
+--Input value-- [[Santhoshkumar Selladurai]] --in-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > FullName}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > ChooseYourRole}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > Founder}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > claimprofilerhtautocomplete}} 
+--Input value-- [[santhosh@devassure.io]] --in-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > claimprofilerhtautocomplete}} 
+--Press keyboard keys-- [[Tab]] --on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > claimprofilerhtautocomplete}} 
+--Press keyboard keys-- [[Tab]] --on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > namestyle}} 
+--Input value-- [[9965076699]] --in-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > maxlength315}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > textarea}} 
+--Input value-- [[I'm co-founder and CTO of DevAssure]] --in-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > textarea}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > ClaimProfile}} 
+--Click on-- {{web > YourTribeExploreCompanies_DevAssure_CompanyDetails > Close}} 
+

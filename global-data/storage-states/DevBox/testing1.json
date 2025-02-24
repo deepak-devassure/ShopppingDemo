@@ -1,0 +1,83 @@
+{
+    "cookies": [
+        {
+            "name": "__cfruid",
+            "value": "53610f85ec62dc65a705a1234761873735b3e271-1715102129",
+            "domain": ".devassure.zendesk.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "m",
+            "value": "5da884ba-413e-4d54-be6b-b7cd6fa602d5edcc31",
+            "domain": "m.stripe.com",
+            "path": "/",
+            "expires": 1749662163.117833,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__stripe_mid",
+            "value": "ef6553fd-8dff-4a3f-9387-a10fdf2135feefa283",
+            "domain": "localhost",
+            "path": "/",
+            "expires": 1746638163,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Strict"
+        },
+        {
+            "name": "__stripe_sid",
+            "value": "8f50cf7d-9c5f-4b36-acd8-3afecf9f8c7134f7d3",
+            "domain": "localhost",
+            "path": "/",
+            "expires": 1715103963,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Strict"
+        },
+        {
+            "name": "NID",
+            "value": "514=lJj6qHmqY5xIiILLpUOSUVwg0gtJrUx_A7NZ8mlFXPmknc2gFS4EpLczMoQvGEEoWdxlrjZyo62MFLvgt_tBYXvxREULCMBK3CzP0i_OF94brf2OzqRYEytS1dHLyrXhIQKoE7X0Ymp0hx9G01oa7cZZG_MG8gF9sXBVuV1GuX4",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1730913338.461964,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_interslice_session",
+            "value": "DI69jHQpQz8AjWvtkOa80dVWTL9059SWuK%2Fko%2FPIbiyIVtjEt%2FCZ7aCyOOwf2TTfi1fiticucHo2yVq6gfF%2B0wNmjM1ZldN%2Bw3IfaAIOE85%2B4J6x8IK6cHywNIEyhCrF2Im4pyrYxtXgxSux40UnIPRJqkxrEuC1vpreNjc%2Fk68o2D2JzzZjd%2FdPaeYK3lOPzfUnwHA9pETsfw6rXKHpIFsEiIEGShixt%2FufsCRrOrhAtAl1okMXYawQ%2BJ3diuA6iagHOEwC%2FBARaAzT4%2BBCEIMe1J%2FndK7Kb8dH75NL%2B%2BvauiE8swuCNUwkAlJR4roZr0k82VN4B03JPdl3lcCWLGCt8c6gdEcRLttm%2FwSa3ncCkLNkANcYhOMHz7SR4Z2VoB5l7QrXZ3A%2FqVa%2FNvxNy66V%2FbdFieiNSolJdh2MUfHaks7rxmHopozwgFQ6XNmbAXfFjJfaRmL%2BVGIB5yb9TH0ceLy3jvDceZsUKX%2FgSnE8bDN9RHJDgy8fHVM00gepuFKJJ5do%2BQ%3D%3D--A1fE6Qcl7favaGR4--XrhJFW3T7EKIMAzccTvmOg%3D%3D",
+            "domain": "localhost",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "origins": [
+        {
+            "origin": "http://localhost:3000",
+            "localStorage": [
+                {
+                    "name": "ZD-buid",
+                    "value": "bb0bcb92fee84d8c81dcf9b91711ef86"
+                },
+                {
+                    "name": "6581850f4a7d78ce3dd543f5.clientId",
+                    "value": "bb0bcb92fee84d8c81dcf9b91711ef86"
+                },
+                {
+                    "name": "ZD-suid",
+                    "value": "{\"id\":\"e00ac0e0a36c4ac2aaf964794cfaf750\",\"expiry\":1715103028874,\"tabs\":{\"count\":1,\"expiry\":0}}"
+                }
+            ]
+        }
+    ]
+}
