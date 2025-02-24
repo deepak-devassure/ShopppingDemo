@@ -2,6 +2,10 @@
 >>summary: Verify the system prevents purchasing above the maximum credits
 >>tags: 
 >>feature: AICredits
+>>ticketUrl: 
+>>importSource: 
+>>priority: 2
+>>aiRequestId: 
 
 
 ^^detailed_steps
