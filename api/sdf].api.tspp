@@ -2,7 +2,7 @@
 
 ^^srefesr(arg1:text)
 {
-    "method": "GET",
+    "method": "POST",
     "baseUrl": "",
     "path": "",
     "request": {
@@ -11,5 +11,13 @@
             "type": "json"
         }
     }
+}
+^^
+
+^^()
+{
+    "method": "GET",
+    "baseUrl": "",
+    "path": ""
 }
 ^^
