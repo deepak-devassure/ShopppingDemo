@@ -1,0 +1,18 @@
+>>testDataType: undefined
+>>summary: Verify that an Admin can cancel an ongoing invitation
+>>tags: Admin, Users_Page, Invitation, Cancel
+>>feature: UserPage
+>>ticketUrl: 
+>>importSource: 
+>>priority: 2
+>>aiRequestId: 7912af67-d264-4eb3-8e54-775ab8a9b4eb
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the Users page
+Click on the options ('...') button next to a user with 'Invited' status
+Select 'Cancel Invitation' from the dropdown menu --> Verify that the user's status changes to 'Cancelled' or is removed from the list
+^^
+
+

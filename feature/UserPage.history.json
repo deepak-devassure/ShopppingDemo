@@ -21,6 +21,38 @@
             "data": {
                 "numTestCases": 18
             }
+        },
+        {
+            "timestamp": "2025-02-25T08:43:00.216Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "harini@amd.com",
+                "name": "harini"
+            },
+            "data": {
+                "generationId": "828aefb3-f6dd-45ee-b607-13397573902f",
+                "status": "error",
+                "requestId": "7912af67-d264-4eb3-8e54-775ab8a9b4eb",
+                "type": "web"
+            }
+        },
+        {
+            "timestamp": "2025-02-25T08:43:36.539Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 1,
+                "email": "harini@amd.com",
+                "name": "harini"
+            },
+            "data": {
+                "numTestCases": 5,
+                "questions": [],
+                "generationId": "828aefb3-f6dd-45ee-b607-13397573902f",
+                "requestId": "7912af67-d264-4eb3-8e54-775ab8a9b4eb",
+                "type": "web",
+                "status": "error"
+            }
         }
     ]
 }

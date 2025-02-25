@@ -1,6 +1,7 @@
 {
     "features": [
-        "UserShopping"
+        "UserShopping",
+        "TestNotes"
     ],
     "tags": [
         [
@@ -9,5 +10,8 @@
     ],
     "additionalTests": [],
     "testType": "web",
-    "priority": []
+    "priority": [
+        "P1",
+        "P4"
+    ]
 }

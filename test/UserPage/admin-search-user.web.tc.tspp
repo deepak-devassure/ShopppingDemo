@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Verify that an Admin can search for a user by email on the Users page
+>>tags: Admin, Users_Page, Search, Email
+>>feature: UserPage
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 7912af67-d264-4eb3-8e54-775ab8a9b4eb
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the Users page
+Click on the search bar and enter a user's email address (Value: user@example.com) --> Verify that the results are filtered to include only the user with the specified email address
+^^
+
+

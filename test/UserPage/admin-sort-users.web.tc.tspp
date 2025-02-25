@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Verify that an Admin can sort users by role on the Users page
+>>tags: Admin, Users_Page, Sort, Role
+>>feature: UserPage
+>>ticketUrl: 
+>>importSource: 
+>>priority: 2
+>>aiRequestId: 7912af67-d264-4eb3-8e54-775ab8a9b4eb
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the Users page
+Click on the 'Role' column to sort the users by role --> Verify that the users are sorted alphabetically by their role
+^^
+
+

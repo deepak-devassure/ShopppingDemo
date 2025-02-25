@@ -1,0 +1,19 @@
+>>testDataType: undefined
+>>summary: Verify that changes made by an Admin to a user's status are saved correctly
+>>tags: Admin, Users_Page, User_Status, Save
+>>feature: UserPage
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 7912af67-d264-4eb3-8e54-775ab8a9b4eb
+
+
+^^detailed_steps
+Login to the application with admin credentials
+Navigate to the Users page
+Click on the options ('...') button next to a user
+Select 'Deactivate' from the dropdown menu --> Verify that the user's status is updated to 'Inactive'
+Refresh the page or navigate away and return to the Users page --> Verify that the user's status remains 'Inactive' after the page refresh
+^^
+
+

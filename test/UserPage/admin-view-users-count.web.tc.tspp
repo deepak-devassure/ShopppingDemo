@@ -1,0 +1,23 @@
+>>testDataType: undefined
+>>summary: Verify that the Admin can see the correct count of users by status
+>>tags: Admin, Users_Page, User_Count, Status
+>>feature: UserPage
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 7912af67-d264-4eb3-8e54-775ab8a9b4eb
+
+
+^^detailed_steps
+Login as an Admin
+Navigate to Users page --> Verify that the total count of users is displayed correctly
+Select a status filter (e.g., Active, Invited, Pending) --> Verify that the count of users is updated to reflect the number of users for the selected status
+^^
+
+--Open URL-- [[https://www.google.com/]] 
+--Click on-- {{web > Google > _0ahUKEwjpxObNz_2EAxUVfWwGHZeGD}} 
+--Click on-- {{web > Google > form_1}} 
+--Click on-- {{web > Google > a_text}} 
+--Click on-- {{web > Google > gb_Qe}} 
+--Click on-- {{web > Google > aria_label}} 
+
